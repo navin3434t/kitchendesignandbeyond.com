@@ -1,0 +1,32 @@
+{
+  "name": "clever-theme",
+  "version": "1.0.0",
+  "description": "CleverSoft's base WordPress theme",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleversoft/clever-theme.git"
+  },
+  "keywords": [
+    "wordpress",
+    "theme"
+  ],
+  "author": "CleverSoft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleversoft/clever-theme/issues"
+  },
+  "homepage": "https://github.com/cleversoft/clever-theme#readme",
+  "devDependencies": {
+    "dompurify": "^2.0.7",
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-if": "^3.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify-es": "^2.0.0"
+  }
+}

@@ -1,0 +1,1 @@
+jQuery(document).ready((function(e){e('select[name="page-generator-pro-spintax[provider]"]').on("change.page-generator-pro",(function(r){var a=e(this).val();e("option",e(this)).each((function(){e(this).val().length>0&&e("#"+e(this).val()).hide()})),e("#"+a).show()})),e('select[name="page-generator-pro-spintax[provider]"]').trigger("change.page-generator-pro")}));

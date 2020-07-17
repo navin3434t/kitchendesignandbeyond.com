@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zoo Framework I18n\n"
+"POT-Creation-Date: 2017-03-16 10:22+0700\n"
+"PO-Revision-Date: 2017-03-16 10:23+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: zoo-framework\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;__(;_e(\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: i18n\n"
+
+#: src/classes/class-zoo-framework-settings-page.php:45
+#: src/classes/class-zoo-framework-settings-page.php:46
+msgid "Zoo Framework"
+msgstr ""
+
+#: src/classes/class-zoo-framework-settings-page.php:80
+#: src/classes/class-zoo-framework-settings-page.php:89
+msgid "General"
+msgstr ""
+
+#: src/classes/class-zoo-framework-settings-page.php:81
+#: src/classes/class-zoo-framework-settings-page.php:101
+msgid "APIs"
+msgstr ""
+
+#: src/classes/class-zoo-framework-settings-page.php:82
+#: src/classes/class-zoo-framework-settings-page.php:119
+#: src/classes/class-zoo-sensei-settings-import-export.php:40
+#: src/classes/class-zoo-sensei-settings-import-export.php:41
+msgid "Import/Export"
+msgstr ""
+
+#: src/classes/class-zoo-framework-settings-page.php:91
+msgid "Header scripts"
+msgstr ""
+
+#: src/classes/class-zoo-framework-settings-page.php:92
+msgid ""
+"Add custom scripts inside HEAD tag. You need to have SCRIPT tag around the "
+"scripts."
+msgstr ""
+
+#: src/classes/class-zoo-framework-settings-page.php:95
+msgid "Footer scripts"
+msgstr ""
+
+#: src/classes/class-zoo-framework-settings-page.php:96
+msgid ""
+"Here is the place to paste your Google Analytics code or any other JS code "
+"you might want to add to be loaded in the footer of your website."
+msgstr ""
+
+#: src/classes/class-zoo-framework-settings-page.php:103
+msgid "Google map API key"
+msgstr ""
+
+#: src/classes/class-zoo-framework-settings-page.php:106
+#, php-format
+msgid ""
+"Enter your Google Map API key to enable maps. You can generate one at: "
+"%sGoogle Map API%s."
+msgstr ""
+
+#: src/classes/class-zoo-framework-settings-page.php:110
+msgid "Google fonts API key"
+msgstr ""
+
+#: src/classes/class-zoo-framework-settings-page.php:113
+#, php-format
+msgid ""
+"Enter your Google Fonts API key to enable custom fonts. You can generate one "
+"at: %sGoogle Fonts API%s."
+msgstr ""
+
+#: src/classes/class-zoo-framework-settings-page.php:121
+msgid "Import"
+msgstr ""
+
+#: src/classes/class-zoo-framework-settings-page.php:123
+msgid ""
+"Paste encoded settings saved from the \"Export\" box and click on the \"Save "
+"Changes\" to import."
+msgstr ""
+
+#: src/classes/class-zoo-framework-settings-page.php:128
+msgid "Export"
+msgstr ""
+
+#: src/classes/class-zoo-framework-settings-page.php:130
+msgid ""
+"Copy the below JSON encoded settings and save it somewhere to import later."
+msgstr ""
+
+#: src/classes/class-zoo-framework-settings-page.php:173
+msgid "Settings have been saved successfully!"
+msgstr ""
+
+#: src/classes/class-zoo-framework-settings-page.php:173
+#: src/classes/class-zoo-framework-settings-page.php:177
+msgid "Dismiss this notice."
+msgstr ""
+
+#: src/classes/class-zoo-framework-settings-page.php:177
+msgid "Failed to save settings. Please try again!"
+msgstr ""
+
+#: src/classes/class-zoo-logger.php:45
+msgid "Info"
+msgstr ""
+
+#: src/classes/class-zoo-logger.php:48
+msgid "Debug"
+msgstr ""
+
+#: src/classes/class-zoo-logger.php:51
+msgid "Alert"
+msgstr ""
+
+#: src/classes/class-zoo-logger.php:54
+msgid "Error"
+msgstr ""
+
+#: src/classes/class-zoo-logger.php:57 src/classes/class-zoo-logger.php:72
+msgid "Notice"
+msgstr ""
+
+#: src/classes/class-zoo-logger.php:60
+msgid "Warning"
+msgstr ""
+
+#: src/classes/class-zoo-logger.php:63
+msgid "Success"
+msgstr ""
+
+#: src/classes/class-zoo-logger.php:66
+msgid "Critical"
+msgstr ""
+
+#: src/classes/class-zoo-logger.php:69
+msgid "Emergency"
+msgstr ""
+
+#: src/classes/class-zoo-sensei-settings-import-export.php:71
+msgid "Upload and Import"
+msgstr ""
+
+#: src/classes/class-zoo-sensei-settings-import-export.php:83
+msgid "Download Export File"
+msgstr ""

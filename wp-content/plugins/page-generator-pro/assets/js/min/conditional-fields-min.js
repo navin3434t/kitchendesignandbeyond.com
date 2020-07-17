@@ -1,0 +1,1 @@
+function page_generator_pro_conditional_fields_initialize(){var i;(i=jQuery)("body").on("change","select.wpzinc-conditional, .wpzinc-conditional select",(function(){var n=i(this).data("container");i("option",i(this)).each((function(){i("."+i(this).val(),i(n)).parent().hide()})),i("."+i(this).val(),i(n)).parent().show()}))}

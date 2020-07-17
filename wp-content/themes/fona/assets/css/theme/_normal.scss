@@ -1,0 +1,197 @@
+.cafe-search-form {
+	.cafe-search-field {
+		min-width: 0px;
+	}
+}
+.cafe-heading-cart-content {
+	.cafe-cart-count {
+		font-size: inherit !important;
+	}
+}
+
+.widget_zoo_ln_widget .zoo-ln-toggle-block-view {
+    display: none;
+}
+
+.product-sidebar .zoo-ln-slider-range.ui-widget.ui-widget-content .ui-slider-handle {
+    z-index: 1;
+}
+
+.woocommerce-currency-switcher-form {
+	float: right;
+	.woocommerce-currency-switcher {
+		padding: 0px;
+	}
+}
+
+.transition-rotate-90 {
+    .elementor-heading-title {
+        transform: rotate(-90deg) translateX(-100%);
+        position: absolute;
+        display: inline-block;
+        transform-origin: top left;
+    }
+}
+
+.cafe-video-light-box .cafe-title {
+    text-align: center;
+}
+
+.cafe-wrap-account .woocommerce-MyAccount-navigation {
+    text-align: left;
+    &.right {
+       left: auto;
+   }
+}
+.cafe-menu > .menu-item ul.dropdown-submenu {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.opacity-0 {
+	.cafe-site-logo{
+		img {
+			opacity: 0;
+		}
+	}
+}
+
+.products .slick-list {
+    padding-bottom: 5px;
+}
+
+.mega-menu-content {
+    .menu-item-mega {
+        & > a {
+            text-transform: uppercase;
+            font-weight: 400;
+            @include px2rem(14);
+            display: block;
+            width: 100%;
+            font-family: Oswald, sans-serif;
+            border-bottom: 1px dotted $border_color;
+            span {
+                display: none !important;
+            }
+        }
+        .mega-menu-submenu {
+            padding-top: 10px;
+            .sub-menu {
+                margin-left: 0px;
+            }
+        }
+    }
+}
+@media (min-width: 768.98px) {
+    .cafe-site-menu .menu-item.is-mega-menu {
+        position: inherit;
+    }
+}
+@media (min-width: 1024px) {
+    .mega-menu-content {
+        position: absolute;
+        opacity: 0;
+        visibility: hidden;
+        left: 0;
+        transition: all 300ms;
+        top: calc(100% + 30px);
+        background: var(--white-color);
+        width: 100%;
+        box-shadow: -2px 2px 81px -17px rgba(0, 0, 0, 0.29);
+        padding: 15px;
+        z-index: 3;
+    }
+}
+
+@media (min-width: 768.98px) {
+    .menu-item.is-mega-menu:hover > .mega-menu-content {
+        opacity: 1;
+        visibility: visible;
+        top: 100%;
+    }
+}
+
+.cafe-lg-width.cafe-site-menu {
+    @media (max-width: 1024px) {
+        .mega-menu-content {
+            display: none;
+            background: transparent !important;
+            a.dropdown-toggle {
+                position: relative;
+                span {
+                    display: flex !important;
+                }
+            }
+            .mega-menu-submenu {
+                padding-top: 0px;
+                ul.sub-menu {
+                    display: none;
+                }
+            }
+            .row {
+                display: block;
+            }
+            [class*='col-md'] {
+                flex: 1;
+                max-width: 100%;
+            }
+        }
+    }
+}
+.cafe-md-width.cafe-site-menu {
+    @media (max-width: 768px) {
+        .mega-menu-content {
+            display: none;
+            a.dropdown-toggle {
+                position: relative;
+                span {
+                    display: flex !important;
+                }
+            }
+            .mega-menu-submenu {
+                padding-top: 0px;
+                ul.sub-menu {
+                    display: none;
+                }
+            }
+            .row {
+                display: block;
+            }
+            [class*='col-md'] {
+                flex: 1;
+                max-width: 100%;
+            }
+        }
+    }
+}
+.cafe-site-menu.horizontal .cafe-menu>.menu-item a {
+	padding: 10px 20px 5px;
+	border-bottom: 0px;
+}
+.cafe-site-header {
+    .elementor-column, .elementor-column-wrap, .elementor-widget-wrap, .elementor-widget {
+        position: static;
+    }
+}
+.elementor-edit-mode {
+    .elementor-column, .elementor-column-wrap, .elementor-widget-wrap, .elementor-widget {
+        position: relative;
+    }
+}
+
+.title-bg-white {
+    .elementor-heading-title {
+        background: $white_text;
+        padding: 0px 15px;
+        display: inline-block;
+        @include transition(300ms);
+        &:hover {
+            background: $main_color;
+        }
+    }
+}
+
+.grid-layout.content-overlay .title-post a {
+    font-size: inherit;
+    font-weight: inherit;
+    color: inherit;
+}

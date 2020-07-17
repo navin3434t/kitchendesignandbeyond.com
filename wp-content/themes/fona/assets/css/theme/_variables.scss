@@ -1,0 +1,237 @@
+@mixin transition-all($time) {
+  transition: all $time;
+  -webkit-transition: all $time;
+  -moz-transition: all $time;
+  -o-transition: all $time;
+  -ms-transition: all $time;
+}
+
+@mixin transition($val) {
+  transition: $val;
+  -webkit-transition: $val;
+  -moz-transition: $val;
+  -o-transition: $val;
+  -ms-transition: $val;
+}
+
+@mixin border-radius($val) {
+  border-radius: $val;
+  -moz-border-radius: $val;
+  -o-border-radius: $val;
+  -webkit-border-radius: $val;
+  -ms-border-radius: $val;
+}
+
+@mixin transform($val) {
+  -webkit-transform: $val;
+  -moz-transform: $val;
+  -ms-transform: $val;
+  -o-transform: $val;
+  transform: $val
+}
+
+
+@mixin px2rem($val) {
+  font-size: $val/16+rem;
+}
+
+@-webkit-keyframes circus {
+  0% {
+    @include transform(rotate(0deg))
+  }
+  50% {
+    @include transform(rotate(180deg))
+  }
+  100% {
+    @include transform(rotate(360deg))
+  }
+}
+
+@keyframes circus {
+  0% {
+    @include transform(rotate(0deg))
+  }
+  50% {
+    @include transform(rotate(180deg))
+  }
+  100% {
+    @include transform(rotate(360deg))
+  }
+}
+
+@-webkit-keyframes circus-back {
+  0% {
+    @include transform(rotate(0deg))
+  }
+  50% {
+    @include transform(rotate(-180deg))
+  }
+  100% {
+    @include transform(rotate(-360deg))
+  }
+}
+
+@keyframes circus-back {
+  0% {
+    @include transform(rotate(0deg))
+  }
+  50% {
+    @include transform(rotate(-180deg))
+  }
+  100% {
+    @include transform(rotate(-360deg))
+  }
+}
+
+//
+//  Font Icons
+//  _____________________________________________
+
+$font_icon_family: 'cleversoft';
+
+
+$icon_menu: '\c207';
+$icon_cart: '\c070';
+$icon_user: '\c204';
+$icon_heart: '\c282';
+$icon_heart_o:'\c279';
+$icon_close: '\c067';
+$icon_search: '\c013';
+$icon_filter: '\c146';
+$icon_eye: '\c235';
+
+$icon_plus: '\c025';
+$icon_minus: '\c035';
+$icon_down: '\c059';
+$icon_up: '\c009';
+$icon_caret_down: '\c264';
+$icon_caret_up: '\c261';
+$icon_arrow_up: '\c273';
+$icon_arrow_down: '\c272';
+
+$icon_arrow_left: '\c024';
+$icon_arrow_right: '\c034';
+$icon_long_arrow_left: '\c138';
+$icon_long_arrow_right: '\c139';
+
+$icon_refresh: '\c137';
+
+$icon_share: '\c224';
+$icon_facebook: '\c234';
+$icon_youtube: '\c228';
+$icon_vimeo: '\c229';
+$icon_skype: '\c230';
+$icon_pinterest: '\c231';
+$icon_instagram: '\c232';
+$icon_googleplus: '\c233';
+$icon_twitter: '\c238';
+$icon_xing: '\c239';
+$icon_tumblr: '\c239';
+$icon_linkedin: '\c246';
+$icon_github: '\c247';
+$icon_foursquare: '\c248';
+$icon_flickr: '\c249';
+$icon_dribbble: '\c250';
+$icon_envelope: '\c117';
+$icon_rss: '\c245';
+$icon_revert:'\c296';
+$icon_clock:'\c293';
+$icon_check_box:'\c130';
+//
+//  Color
+//  _____________________________________________
+
+
+$accent_color:#00c4b4;
+$main_color: #252525;
+$sec_accent_color: #666;
+
+//
+//  Menu color, heding color, title color
+//  _____________________________________________
+
+
+$title_color: #252525;
+$body_color: #424242;
+
+//
+// top head color, post infor color
+//  _____________________________________________
+
+$sec_color: #959595;
+$breadcrumb_color: #666;
+
+//
+// Color border
+//  _____________________________________________
+
+$border_color: #ebebeb;
+$border_sidebar_color: #ebebeb;
+$border_gray:#ccc;
+
+
+//
+// date post color
+//  _____________________________________________
+
+$date_post: #959595;
+$color_except: #666;
+
+//
+//Bg breadcrumb
+//  _____________________________________________
+
+$bg_block: #f5f5f5;
+$bg_toggle_block:#f9f9f9;
+$bg_checkout_block:#ebebeb;
+
+//
+// Sidebar
+//  _____________________________________________
+
+$sidebar_color:#7d7d7d;
+$sidebar_link:#7d7d7d;
+
+//
+// Footer bg
+//  _____________________________________________
+
+$white_text: #fff;
+$black_text:#000;
+$footer_color:#666666;
+$bg_footer:#fff;
+$black_transparent_1: rgba(0, 0, 0, 0.1);
+$black_transparent_2: rgba(0, 0, 0, 0.2);
+$black_transparent_4: rgba(0, 0, 0, 0.4);
+$black_transparent_5: rgba(0, 0, 0, 0.5);
+$black_transparent_8: rgba(0, 0, 0, 0.8);
+$black_transparent_9: rgba(0, 0, 0, 0.9);
+$white_transparent_9: rgba(255, 255, 255, 0.9);
+$white_transparent_8: rgba(255, 255, 255, 0.8);
+$white_transparent_5: rgba(255, 255, 255, 0.5);
+$white_transparent_2: rgba(255, 255, 255, 0.2);
+$white_transparent_1: rgba(255, 255, 255, 0.1);
+
+$blink_color:#f56f5e;
+
+$star_color:#ffcc33;
+$red_color:#eb212e;
+$dark_red_color:#cc0000;
+$price_color:#000;
+$del_price_color:#959595;
+$sale_price:#000;
+$stock_color:#81bf30;
+
+$btn_single_wishlist:#ffe5e7;
+
+$bg_breadcrumb:#f6f8fa;
+//
+//Label Bg
+//  _____________________________________________
+$label_new:#d2ffc0;
+$single_label_new:#00afec;
+$single_label_sale:#ff525d;
+:root {
+  --accent-color:#f56f5e;
+  --border-color:#ebebeb;
+}

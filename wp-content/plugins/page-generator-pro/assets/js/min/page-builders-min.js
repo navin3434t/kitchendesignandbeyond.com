@@ -1,0 +1,1 @@
+jQuery(document).ready((function(d){d("body").hasClass("wpzinc")||d("body").addClass("wpzinc")}));

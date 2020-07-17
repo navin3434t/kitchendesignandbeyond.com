@@ -1,0 +1,27 @@
+/**
+	 * Theme Name: Fona Child
+	 * Description: This is a child theme of Fona
+	 * Author: ZooTemplate
+	 * Author URI: http://zootemlate.com
+	 * Template: fona
+	 * Version: 1.3.6
+	 */
+
+
+.woocommerce ul.products li.product a.wrap-img img{
+	min-height: 300px;
+}
+.main#main{
+	margin-top: 10px!important;
+}
+.products.grid .product{
+	width: 25% !important;
+}
+@media(max-width:992px){
+   .vc_custom_1594537915234{
+        margin-left:0px !important;
+    }
+    .vc_custom_1594537900927{
+        margin-left:0px !important;
+    }
+}

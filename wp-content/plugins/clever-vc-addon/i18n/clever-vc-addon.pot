@@ -1,0 +1,4976 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-29 03:51+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: src/classes/class-cvca-pagination.php:32
+#: src/classes/class-cvca-pagination.php:39
+msgid "Invalid AJAX request!"
+msgstr ""
+
+#: src/classes/class-cvca-pagination.php:120
+msgid "Prev Page"
+msgstr ""
+
+#: src/classes/class-cvca-pagination.php:134
+msgid "Next Page"
+msgstr ""
+
+#: src/classes/class-cvca-pagination.php:177
+#: src/classes/class-cvca-pagination.php:186
+#: src/classes/class-cvca-pagination.php:195
+msgid "Go to page"
+msgstr ""
+
+#: src/classes/class-cvca-pagination.php:214
+msgid "Page"
+msgstr ""
+
+#: src/classes/class-cvca-pagination.php:231
+#: src/classes/class-cvca-pagination.php:244
+#: src/shortcodes/clever-posts-box.php:29
+#: src/shortcodes/clever-posts-box.php:259
+msgid "Load More"
+msgstr ""
+
+#: src/helpers/content.php:57
+msgctxt "taxonomy archive slug"
+msgid "course-category"
+msgstr ""
+
+#: src/helpers/content.php:111
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: src/helpers/content.php:114
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: src/helpers/content.php:121 src/helpers/content.php:126
+#: src/helpers/content.php:130
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: src/helpers/content.php:160
+msgid "Instagram Image"
+msgstr ""
+
+#: src/helpers/content.php:192
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: src/helpers/filesystem.php:78
+#, php-format
+msgid "Failed to load template with slug \"%s\" and name \"%s\"."
+msgstr ""
+
+#: src/helpers/shortcodefactory.php:56
+msgid "The callback is not callable."
+msgstr ""
+
+#: src/helpers/vc.php:10 src/shortcodes/clever-team-member-lite.php:103
+msgid "Twitter"
+msgstr ""
+
+#: src/helpers/vc.php:11 src/shortcodes/clever-team-member-lite.php:89
+msgid "Facebook"
+msgstr ""
+
+#: src/helpers/vc.php:12
+msgid "Google plus"
+msgstr ""
+
+#: src/helpers/vc.php:13 src/shortcodes/clever-team-member-lite.php:131
+msgid "Instagram"
+msgstr ""
+
+#: src/helpers/vc.php:14
+msgid "Pinterest"
+msgstr ""
+
+#: src/helpers/vc.php:15 src/shortcodes/clever-team-member-lite.php:124
+msgid "Skype"
+msgstr ""
+
+#: src/helpers/vc.php:16 src/shortcodes/clever-team-member-lite.php:159
+msgid "Vimeo"
+msgstr ""
+
+#: src/helpers/vc.php:17 src/shortcodes/clever-team-member-lite.php:152
+msgid "Youtube"
+msgstr ""
+
+#: src/helpers/vc.php:18
+msgid "Award 1"
+msgstr ""
+
+#: src/helpers/vc.php:19
+msgid "Building"
+msgstr ""
+
+#: src/helpers/vc.php:20
+msgid "Faucet"
+msgstr ""
+
+#: src/helpers/vc.php:21
+msgid "Flower"
+msgstr ""
+
+#: src/helpers/vc.php:22 src/helpers/vc.php:380
+msgid "House"
+msgstr ""
+
+#: src/helpers/vc.php:23
+msgid "House 1"
+msgstr ""
+
+#: src/helpers/vc.php:24
+msgid "Pines"
+msgstr ""
+
+#: src/helpers/vc.php:25
+msgid "Plant"
+msgstr ""
+
+#: src/helpers/vc.php:26
+msgid "Sprout"
+msgstr ""
+
+#: src/helpers/vc.php:27
+msgid "Sprout 1"
+msgstr ""
+
+#: src/helpers/vc.php:28
+msgid "Trees"
+msgstr ""
+
+#: src/helpers/vc.php:29
+msgid "Arrow Left"
+msgstr ""
+
+#: src/helpers/vc.php:30
+msgid "Arrow Right"
+msgstr ""
+
+#: src/helpers/vc.php:31
+msgid "Arrow Left 1"
+msgstr ""
+
+#: src/helpers/vc.php:32
+msgid "Arrow Right 1"
+msgstr ""
+
+#: src/helpers/vc.php:33
+msgid "Arrow Left 2"
+msgstr ""
+
+#: src/helpers/vc.php:34
+msgid "Arrow Right 2"
+msgstr ""
+
+#: src/helpers/vc.php:35
+msgid "Arrow Left 3"
+msgstr ""
+
+#: src/helpers/vc.php:36
+msgid "Arrow Right 3"
+msgstr ""
+
+#: src/helpers/vc.php:37
+msgid "Close 1"
+msgstr ""
+
+#: src/helpers/vc.php:38
+msgid "Three dots"
+msgstr ""
+
+#: src/helpers/vc.php:39
+msgid "More Vertical"
+msgstr ""
+
+#: src/helpers/vc.php:40
+msgid "List 1"
+msgstr ""
+
+#: src/helpers/vc.php:41
+msgid "List 2"
+msgstr ""
+
+#: src/helpers/vc.php:42
+msgid "Grid 5"
+msgstr ""
+
+#: src/helpers/vc.php:43
+msgid "Menu 4"
+msgstr ""
+
+#: src/helpers/vc.php:44
+msgid "Menu 5"
+msgstr ""
+
+#: src/helpers/vc.php:45
+msgid "Menu 6"
+msgstr ""
+
+#: src/helpers/vc.php:46
+msgid "Heart 0"
+msgstr ""
+
+#: src/helpers/vc.php:47
+msgid "Heart 1"
+msgstr ""
+
+#: src/helpers/vc.php:48
+msgid "Heart 2"
+msgstr ""
+
+#: src/helpers/vc.php:49
+msgid "User 6"
+msgstr ""
+
+#: src/helpers/vc.php:50
+msgid "Attachment"
+msgstr ""
+
+#: src/helpers/vc.php:51 src/helpers/vc.php:350
+msgid "Bag"
+msgstr ""
+
+#: src/helpers/vc.php:52
+msgid "Ball"
+msgstr ""
+
+#: src/helpers/vc.php:53
+msgid "Battery"
+msgstr ""
+
+#: src/helpers/vc.php:54 src/helpers/vc.php:452
+msgid "Briefcase"
+msgstr ""
+
+#: src/helpers/vc.php:55 src/helpers/vc.php:401
+msgid "Car"
+msgstr ""
+
+#: src/helpers/vc.php:56
+msgid "CPU 1"
+msgstr ""
+
+#: src/helpers/vc.php:57
+msgid "CPU 2"
+msgstr ""
+
+#: src/helpers/vc.php:58
+msgid "Woman dress"
+msgstr ""
+
+#: src/helpers/vc.php:59
+msgid "Drill tool"
+msgstr ""
+
+#: src/helpers/vc.php:60
+msgid "Feeding bottle"
+msgstr ""
+
+#: src/helpers/vc.php:61
+msgid "Fruit"
+msgstr ""
+
+#: src/helpers/vc.php:62
+msgid "Furniture 2"
+msgstr ""
+
+#: src/helpers/vc.php:63
+msgid "Furniture 1"
+msgstr ""
+
+#: src/helpers/vc.php:64
+msgid "Woman Shoe 2"
+msgstr ""
+
+#: src/helpers/vc.php:65
+msgid "Woman Shoe 1"
+msgstr ""
+
+#: src/helpers/vc.php:66
+msgid "Horse"
+msgstr ""
+
+#: src/helpers/vc.php:67
+msgid "Laptop"
+msgstr ""
+
+#: src/helpers/vc.php:68
+msgid "Lipstick"
+msgstr ""
+
+#: src/helpers/vc.php:69 src/helpers/vc.php:70
+msgid "Iron"
+msgstr ""
+
+#: src/helpers/vc.php:71
+msgid "Baby Toy 2"
+msgstr ""
+
+#: src/helpers/vc.php:72
+msgid "Baby Toy 1"
+msgstr ""
+
+#: src/helpers/vc.php:73
+msgid "Paint roller"
+msgstr ""
+
+#: src/helpers/vc.php:74
+msgid "Shirt"
+msgstr ""
+
+#: src/helpers/vc.php:75
+msgid "Man Shoe 2"
+msgstr ""
+
+#: src/helpers/vc.php:76
+msgid "Diamond"
+msgstr ""
+
+#: src/helpers/vc.php:77
+msgid "TV Screen"
+msgstr ""
+
+#: src/helpers/vc.php:78
+msgid "Smartphone"
+msgstr ""
+
+#: src/helpers/vc.php:79
+msgid "Led buib"
+msgstr ""
+
+#: src/helpers/vc.php:80
+msgid "Microwave"
+msgstr ""
+
+#: src/helpers/vc.php:81
+msgid "Wardrobe"
+msgstr ""
+
+#: src/helpers/vc.php:82
+msgid "Washing Machine"
+msgstr ""
+
+#: src/helpers/vc.php:83
+msgid "Watch 1"
+msgstr ""
+
+#: src/helpers/vc.php:84
+msgid "Watch 2"
+msgstr ""
+
+#: src/helpers/vc.php:85
+msgid "Slider 3"
+msgstr ""
+
+#: src/helpers/vc.php:86
+msgid "Slider 2"
+msgstr ""
+
+#: src/helpers/vc.php:87
+msgid "Slider 1"
+msgstr ""
+
+#: src/helpers/vc.php:88
+msgid "Cart 16"
+msgstr ""
+
+#: src/helpers/vc.php:89
+msgid "Cart 15"
+msgstr ""
+
+#: src/helpers/vc.php:90
+msgid "Cart 14"
+msgstr ""
+
+#: src/helpers/vc.php:91
+msgid "Cart 13"
+msgstr ""
+
+#: src/helpers/vc.php:92
+msgid "Cart 12"
+msgstr ""
+
+#: src/helpers/vc.php:93
+msgid "Cart 11"
+msgstr ""
+
+#: src/helpers/vc.php:94
+msgid "Cart 10"
+msgstr ""
+
+#: src/helpers/vc.php:95
+msgid "Cart 9"
+msgstr ""
+
+#: src/helpers/vc.php:96
+msgid "Cart 8"
+msgstr ""
+
+#: src/helpers/vc.php:97
+msgid "Cart 7"
+msgstr ""
+
+#: src/helpers/vc.php:98
+msgid "Purchase Cart"
+msgstr ""
+
+#: src/helpers/vc.php:99
+msgid "ID Card"
+msgstr ""
+
+#: src/helpers/vc.php:100
+msgid "Line Triangle 2"
+msgstr ""
+
+#: src/helpers/vc.php:101
+msgid "Airplane"
+msgstr ""
+
+#: src/helpers/vc.php:102
+msgid "Black Fashion Bag"
+msgstr ""
+
+#: src/helpers/vc.php:103
+msgid "Filter Blank"
+msgstr ""
+
+#: src/helpers/vc.php:104 src/shortcodes/clever-product.php:362
+#: src/shortcodes/clever-product.php:375 src/shortcodes/clever-product.php:391
+#: src/shortcodes/clever-product.php:402 src/shortcodes/clever-product.php:411
+#: src/shortcodes/clever-product.php:420 src/shortcodes/clever-product.php:433
+#: src/shortcodes/clever-product.php:443
+msgid "Filter"
+msgstr ""
+
+#: src/helpers/vc.php:105
+msgid "Grid 1"
+msgstr ""
+
+#: src/helpers/vc.php:106
+msgid "Compress"
+msgstr ""
+
+#: src/helpers/vc.php:107
+msgid "Expand"
+msgstr ""
+
+#: src/helpers/vc.php:108
+msgid "Quotes"
+msgstr ""
+
+#: src/helpers/vc.php:109
+msgid "Next Arrow 1"
+msgstr ""
+
+#: src/helpers/vc.php:110
+msgid "Prev Arrow 1"
+msgstr ""
+
+#: src/helpers/vc.php:111
+msgid "Reload"
+msgstr ""
+
+#: src/helpers/vc.php:112 src/helpers/vc.php:358
+msgid "Truck"
+msgstr ""
+
+#: src/helpers/vc.php:113 src/helpers/vc.php:307
+msgid "Wallet"
+msgstr ""
+
+#: src/helpers/vc.php:114
+msgid "Electric 1"
+msgstr ""
+
+#: src/helpers/vc.php:115
+msgid "Electric 2"
+msgstr ""
+
+#: src/helpers/vc.php:116
+msgid "Lock"
+msgstr ""
+
+#: src/helpers/vc.php:117
+msgid "Share 1"
+msgstr ""
+
+#: src/helpers/vc.php:118
+msgid "Share 2"
+msgstr ""
+
+#: src/helpers/vc.php:119
+msgid "Check box"
+msgstr ""
+
+#: src/helpers/vc.php:120
+msgid "Clock"
+msgstr ""
+
+#: src/helpers/vc.php:121
+msgid "Clock 1"
+msgstr ""
+
+#: src/helpers/vc.php:122
+msgid "Analytic Laptop"
+msgstr ""
+
+#: src/helpers/vc.php:123
+msgid "Code"
+msgstr ""
+
+#: src/helpers/vc.php:124
+msgid "Competitive Chart"
+msgstr ""
+
+#: src/helpers/vc.php:125
+msgid "Computer and Cellphone"
+msgstr ""
+
+#: src/helpers/vc.php:126
+msgid "Consulting Message"
+msgstr ""
+
+#: src/helpers/vc.php:127
+msgid "Creative Light Buib"
+msgstr ""
+
+#: src/helpers/vc.php:128
+msgid "Customer reviews"
+msgstr ""
+
+#: src/helpers/vc.php:129 src/helpers/vc.php:394
+msgid "Compass"
+msgstr ""
+
+#: src/helpers/vc.php:130
+msgid "Folder 1"
+msgstr ""
+
+#: src/helpers/vc.php:131 src/helpers/vc.php:337
+msgid "Download"
+msgstr ""
+
+#: src/helpers/vc.php:132
+msgid "Cloud Download"
+msgstr ""
+
+#: src/helpers/vc.php:133
+msgid "Envelope"
+msgstr ""
+
+#: src/helpers/vc.php:134
+msgid "File Blank"
+msgstr ""
+
+#: src/helpers/vc.php:135
+msgid "Touch"
+msgstr ""
+
+#: src/helpers/vc.php:136
+msgid "Tablet with Pencil"
+msgstr ""
+
+#: src/helpers/vc.php:137
+msgid "Illustration Tools"
+msgstr ""
+
+#: src/helpers/vc.php:138
+msgid "Keyboard and Hands"
+msgstr ""
+
+#: src/helpers/vc.php:139
+msgid "Lanscape Image"
+msgstr ""
+
+#: src/helpers/vc.php:140
+msgid "Layout Square"
+msgstr ""
+
+#: src/helpers/vc.php:141
+msgid "Mobile with Gears"
+msgstr ""
+
+#: src/helpers/vc.php:142
+msgid "Video with line"
+msgstr ""
+
+#: src/helpers/vc.php:143 src/helpers/vc.php:144
+msgid "Performance Clock"
+msgstr ""
+
+#: src/helpers/vc.php:145
+msgid "Padlock"
+msgstr ""
+
+#: src/helpers/vc.php:146
+msgid "PC Monitor"
+msgstr ""
+
+#: src/helpers/vc.php:147
+msgid "Map Icon Blank"
+msgstr ""
+
+#: src/helpers/vc.php:148
+msgid "Search Results"
+msgstr ""
+
+#: src/helpers/vc.php:149
+msgid "Search Blank"
+msgstr ""
+
+#: src/helpers/vc.php:150
+msgid "Toolset"
+msgstr ""
+
+#: src/helpers/vc.php:151
+msgid "Sharing Symbol"
+msgstr ""
+
+#: src/helpers/vc.php:152
+msgid "Sitemap"
+msgstr ""
+
+#: src/helpers/vc.php:153
+msgid "Smartphone Scale"
+msgstr ""
+
+#: src/helpers/vc.php:154
+msgid "Tablet Scale"
+msgstr ""
+
+#: src/helpers/vc.php:155
+msgid "Expand Thin Arrows"
+msgstr ""
+
+#: src/helpers/vc.php:156
+msgid "Cloud Upload"
+msgstr ""
+
+#: src/helpers/vc.php:157
+msgid "Upload"
+msgstr ""
+
+#: src/helpers/vc.php:158
+msgid "Volume Off"
+msgstr ""
+
+#: src/helpers/vc.php:159
+msgid "Volume On"
+msgstr ""
+
+#: src/helpers/vc.php:160
+msgid "Config"
+msgstr ""
+
+#: src/helpers/vc.php:161
+msgid "Home"
+msgstr ""
+
+#: src/helpers/vc.php:162 src/shortcodes/clever-banner-slider.php:70
+#: src/shortcodes/clever-banner.php:96 src/shortcodes/clever-boxes.php:356
+#: src/shortcodes/clever-countdown.php:78
+#: src/shortcodes/clever-demo-box.php:157
+#: src/shortcodes/clever-feature-box.php:431
+#: src/shortcodes/clever-follow-me.php:68
+#: src/shortcodes/clever-image-gallery.php:92
+#: src/shortcodes/clever-links.php:67
+#: src/shortcodes/clever-multi-banner.php:129
+msgid "Link"
+msgstr ""
+
+#: src/helpers/vc.php:163
+msgid "Links"
+msgstr ""
+
+#: src/helpers/vc.php:164
+msgid "Website Protection"
+msgstr ""
+
+#: src/helpers/vc.php:165
+msgid "Work Team"
+msgstr ""
+
+#: src/helpers/vc.php:166
+msgid "Zoom In Symbol"
+msgstr ""
+
+#: src/helpers/vc.php:167
+msgid "Zoom Out Button"
+msgstr ""
+
+#: src/helpers/vc.php:168
+msgid "Arrow 1"
+msgstr ""
+
+#: src/helpers/vc.php:169
+msgid "Arrow Bold"
+msgstr ""
+
+#: src/helpers/vc.php:170
+msgid "Arrow Light"
+msgstr ""
+
+#: src/helpers/vc.php:171
+msgid "Arrow Regular"
+msgstr ""
+
+#: src/helpers/vc.php:172
+msgid "Cart 1"
+msgstr ""
+
+#: src/helpers/vc.php:173
+msgid "Cart 2"
+msgstr ""
+
+#: src/helpers/vc.php:174
+msgid "Cart 3"
+msgstr ""
+
+#: src/helpers/vc.php:175
+msgid "Cart 4"
+msgstr ""
+
+#: src/helpers/vc.php:176
+msgid "Cart 5"
+msgstr ""
+
+#: src/helpers/vc.php:177
+msgid "Cart 6"
+msgstr ""
+
+#: src/helpers/vc.php:178 src/helpers/vc.php:343
+msgid "Chart"
+msgstr ""
+
+#: src/helpers/vc.php:179
+msgid "Close"
+msgstr ""
+
+#: src/helpers/vc.php:180
+msgid "Compare 1"
+msgstr ""
+
+#: src/helpers/vc.php:181
+msgid "Compare 2"
+msgstr ""
+
+#: src/helpers/vc.php:182
+msgid "Compare 3"
+msgstr ""
+
+#: src/helpers/vc.php:183
+msgid "Compare 4"
+msgstr ""
+
+#: src/helpers/vc.php:184
+msgid "Compare 5"
+msgstr ""
+
+#: src/helpers/vc.php:185
+msgid "Compare 6"
+msgstr ""
+
+#: src/helpers/vc.php:186
+msgid "Compare 7"
+msgstr ""
+
+#: src/helpers/vc.php:187
+msgid "Down"
+msgstr ""
+
+#: src/helpers/vc.php:188 src/shortcodes/clever-blog.php:94
+#: src/shortcodes/clever-posts-box.php:348
+#: src/shortcodes/clever-product-ids.php:88
+#: src/shortcodes/clever-product.php:217 src/shortcodes/clever-service.php:68
+#: src/shortcodes/clever-team-member.php:111
+msgid "Grid"
+msgstr ""
+
+#: src/helpers/vc.php:189
+msgid "Hand"
+msgstr ""
+
+#: src/helpers/vc.php:190 src/shortcodes/clever-sensei-courses.php:193
+msgid "Layout 1"
+msgstr ""
+
+#: src/helpers/vc.php:191 src/shortcodes/clever-blog.php:90
+#: src/shortcodes/clever-blog.php:97 src/shortcodes/clever-blog.php:113
+#: src/shortcodes/clever-blog.php:153 src/shortcodes/clever-blog.php:180
+#: src/shortcodes/clever-blog.php:192 src/shortcodes/clever-blog.php:201
+#: src/shortcodes/clever-blog.php:210 src/shortcodes/clever-blog.php:219
+#: src/shortcodes/clever-image-gallery.php:67
+#: src/shortcodes/clever-multi-banner.php:57
+#: src/shortcodes/clever-parallax-box.php:86
+#: src/shortcodes/clever-posts-box.php:344
+#: src/shortcodes/clever-product-ids.php:85
+#: src/shortcodes/clever-product-ids.php:98
+#: src/shortcodes/clever-product-ids.php:107
+#: src/shortcodes/clever-product-ids.php:119
+#: src/shortcodes/clever-product-ids.php:128
+#: src/shortcodes/clever-product-ids.php:137
+#: src/shortcodes/clever-product-ids.php:145
+#: src/shortcodes/clever-product-ids.php:152
+#: src/shortcodes/clever-product.php:214 src/shortcodes/clever-product.php:281
+#: src/shortcodes/clever-product.php:290 src/shortcodes/clever-product.php:302
+#: src/shortcodes/clever-product.php:311 src/shortcodes/clever-product.php:320
+#: src/shortcodes/clever-product.php:329 src/shortcodes/clever-product.php:337
+#: src/shortcodes/clever-product.php:344 src/shortcodes/clever-service.php:62
+msgid "Layout"
+msgstr ""
+
+#: src/helpers/vc.php:192
+msgid "Light"
+msgstr ""
+
+#: src/helpers/vc.php:193
+msgid "Line Triangle"
+msgstr ""
+
+#: src/helpers/vc.php:194 src/helpers/vc.php:439
+#: src/shortcodes/clever-blog.php:95 src/shortcodes/clever-posts-box.php:349
+#: src/shortcodes/clever-product-ids.php:89
+#: src/shortcodes/clever-product.php:218
+#: src/shortcodes/clever-team-member.php:112
+msgid "List"
+msgstr ""
+
+#: src/helpers/vc.php:195
+msgid "Mail 1"
+msgstr ""
+
+#: src/helpers/vc.php:196
+msgid "Mail 2"
+msgstr ""
+
+#: src/helpers/vc.php:197
+msgid "Mail 3"
+msgstr ""
+
+#: src/helpers/vc.php:198
+msgid "Mail 4"
+msgstr ""
+
+#: src/helpers/vc.php:199
+msgid "Mail 5"
+msgstr ""
+
+#: src/helpers/vc.php:200
+msgid "Map 1"
+msgstr ""
+
+#: src/helpers/vc.php:201
+msgid "Map 2"
+msgstr ""
+
+#: src/helpers/vc.php:202
+msgid "Map 3"
+msgstr ""
+
+#: src/helpers/vc.php:203
+msgid "Map 4"
+msgstr ""
+
+#: src/helpers/vc.php:204
+msgid "Map 5"
+msgstr ""
+
+#: src/helpers/vc.php:205
+msgid "Menu 1"
+msgstr ""
+
+#: src/helpers/vc.php:206
+msgid "Menu 2"
+msgstr ""
+
+#: src/helpers/vc.php:207
+msgid "Grid 3"
+msgstr ""
+
+#: src/helpers/vc.php:208
+msgid "Grid 4"
+msgstr ""
+
+#: src/helpers/vc.php:209
+msgid "Menu 3"
+msgstr ""
+
+#: src/helpers/vc.php:210
+msgid "Grid 2"
+msgstr ""
+
+#: src/helpers/vc.php:211
+msgid "Minus"
+msgstr ""
+
+#: src/helpers/vc.php:212 src/helpers/vc.php:279
+msgid "Next"
+msgstr ""
+
+#: src/helpers/vc.php:213
+msgid "Phone 1"
+msgstr ""
+
+#: src/helpers/vc.php:214
+msgid "Phone 2"
+msgstr ""
+
+#: src/helpers/vc.php:215
+msgid "Phone 3"
+msgstr ""
+
+#: src/helpers/vc.php:216
+msgid "Phone 4"
+msgstr ""
+
+#: src/helpers/vc.php:217
+msgid "Phone 5"
+msgstr ""
+
+#: src/helpers/vc.php:218
+msgid "Phone 6"
+msgstr ""
+
+#: src/helpers/vc.php:219 src/helpers/vc.php:427
+msgid "Picture"
+msgstr ""
+
+#: src/helpers/vc.php:220
+msgid "Pin"
+msgstr ""
+
+#: src/helpers/vc.php:221
+msgid "Plus"
+msgstr ""
+
+#: src/helpers/vc.php:222
+msgid "Prev"
+msgstr ""
+
+#: src/helpers/vc.php:223
+msgid "Quickview 1"
+msgstr ""
+
+#: src/helpers/vc.php:224
+msgid "Quickview 2"
+msgstr ""
+
+#: src/helpers/vc.php:225
+msgid "Quickview 3"
+msgstr ""
+
+#: src/helpers/vc.php:226
+msgid "Quickview 4"
+msgstr ""
+
+#: src/helpers/vc.php:227
+msgid "Quickview 5"
+msgstr ""
+
+#: src/helpers/vc.php:228
+msgid "Refresh"
+msgstr ""
+
+#: src/helpers/vc.php:229
+msgid "Rounded Triangle"
+msgstr ""
+
+#: src/helpers/vc.php:230
+msgid "Search 1"
+msgstr ""
+
+#: src/helpers/vc.php:231
+msgid "Search 2"
+msgstr ""
+
+#: src/helpers/vc.php:232
+msgid "Search 3"
+msgstr ""
+
+#: src/helpers/vc.php:233
+msgid "Search 4"
+msgstr ""
+
+#: src/helpers/vc.php:234
+msgid "Search 5"
+msgstr ""
+
+#: src/helpers/vc.php:235
+msgid "Support"
+msgstr ""
+
+#: src/helpers/vc.php:236 src/helpers/vc.php:311
+msgid "Tablet"
+msgstr ""
+
+#: src/helpers/vc.php:237
+msgid "Triangle"
+msgstr ""
+
+#: src/helpers/vc.php:238
+msgid "Up"
+msgstr ""
+
+#: src/helpers/vc.php:239
+msgid "User 1"
+msgstr ""
+
+#: src/helpers/vc.php:240
+msgid "User 2"
+msgstr ""
+
+#: src/helpers/vc.php:241
+msgid "User 3"
+msgstr ""
+
+#: src/helpers/vc.php:242
+msgid "User 4"
+msgstr ""
+
+#: src/helpers/vc.php:243
+msgid "User 5"
+msgstr ""
+
+#: src/helpers/vc.php:244 src/helpers/vc.php:411
+msgid "User"
+msgstr ""
+
+#: src/helpers/vc.php:245
+msgid "Vector"
+msgstr ""
+
+#: src/helpers/vc.php:246
+msgid "Wishlist"
+msgstr ""
+
+#: src/helpers/vc.php:256
+msgid "World Wide"
+msgstr ""
+
+#: src/helpers/vc.php:257
+msgid "World Globe"
+msgstr ""
+
+#: src/helpers/vc.php:258
+msgid "Under pants"
+msgstr ""
+
+#: src/helpers/vc.php:259
+msgid "Tshirt"
+msgstr ""
+
+#: src/helpers/vc.php:260
+msgid "Trousers"
+msgstr ""
+
+#: src/helpers/vc.php:261
+msgid "Tie"
+msgstr ""
+
+#: src/helpers/vc.php:262
+msgid "Tennis Ball"
+msgstr ""
+
+#: src/helpers/vc.php:263
+msgid "Telesocpe"
+msgstr ""
+
+#: src/helpers/vc.php:264
+msgid "Stop"
+msgstr ""
+
+#: src/helpers/vc.php:265
+msgid "Starship"
+msgstr ""
+
+#: src/helpers/vc.php:266
+msgid "Starship 2"
+msgstr ""
+
+#: src/helpers/vc.php:267
+msgid "Speaker"
+msgstr ""
+
+#: src/helpers/vc.php:268
+msgid "Speaker 2"
+msgstr ""
+
+#: src/helpers/vc.php:269
+msgid "Soccer"
+msgstr ""
+
+#: src/helpers/vc.php:270
+msgid "Snikers"
+msgstr ""
+
+#: src/helpers/vc.php:271
+msgid "Scisors"
+msgstr ""
+
+#: src/helpers/vc.php:272
+msgid "Puzzle"
+msgstr ""
+
+#: src/helpers/vc.php:273
+msgid "Printer"
+msgstr ""
+
+#: src/helpers/vc.php:274
+msgid "Pool"
+msgstr ""
+
+#: src/helpers/vc.php:275
+msgid "Podium"
+msgstr ""
+
+#: src/helpers/vc.php:276
+msgid "Play"
+msgstr ""
+
+#: src/helpers/vc.php:277
+msgid "Planet"
+msgstr ""
+
+#: src/helpers/vc.php:278
+msgid "Pause"
+msgstr ""
+
+#: src/helpers/vc.php:280
+msgid "MusicNote"
+msgstr ""
+
+#: src/helpers/vc.php:281
+msgid "MusicNote 2"
+msgstr ""
+
+#: src/helpers/vc.php:282
+msgid "MusicMixer"
+msgstr ""
+
+#: src/helpers/vc.php:283
+msgid "Microphone"
+msgstr ""
+
+#: src/helpers/vc.php:284
+msgid "Medal"
+msgstr ""
+
+#: src/helpers/vc.php:285
+msgid "ManFigure"
+msgstr ""
+
+#: src/helpers/vc.php:286
+msgid "Magnet"
+msgstr ""
+
+#: src/helpers/vc.php:287
+msgid "Like"
+msgstr ""
+
+#: src/helpers/vc.php:288
+msgid "Hanger"
+msgstr ""
+
+#: src/helpers/vc.php:289
+msgid "Handicap"
+msgstr ""
+
+#: src/helpers/vc.php:290
+msgid "Forward"
+msgstr ""
+
+#: src/helpers/vc.php:291
+msgid "Footbal"
+msgstr ""
+
+#: src/helpers/vc.php:292
+msgid "Flag"
+msgstr ""
+
+#: src/helpers/vc.php:293
+msgid "FemaleFigure"
+msgstr ""
+
+#: src/helpers/vc.php:294
+msgid "Dislike"
+msgstr ""
+
+#: src/helpers/vc.php:295
+msgid "DiamondRing"
+msgstr ""
+
+#: src/helpers/vc.php:296
+msgid "Crown"
+msgstr ""
+
+#: src/helpers/vc.php:297
+msgid "Column"
+msgstr ""
+
+#: src/helpers/vc.php:298
+msgid "Click"
+msgstr ""
+
+#: src/helpers/vc.php:299
+msgid "Cassette"
+msgstr ""
+
+#: src/helpers/vc.php:300
+msgid "Bomb"
+msgstr ""
+
+#: src/helpers/vc.php:301
+msgid "BatteryLow"
+msgstr ""
+
+#: src/helpers/vc.php:302
+msgid "BatteryFull"
+msgstr ""
+
+#: src/helpers/vc.php:303
+msgid "Bascketball"
+msgstr ""
+
+#: src/helpers/vc.php:304
+msgid "Astronaut"
+msgstr ""
+
+#: src/helpers/vc.php:305
+msgid "WineGlass"
+msgstr ""
+
+#: src/helpers/vc.php:306
+msgid "Water"
+msgstr ""
+
+#: src/helpers/vc.php:308
+msgid "Umbrella"
+msgstr ""
+
+#: src/helpers/vc.php:309
+msgid "TV"
+msgstr ""
+
+#: src/helpers/vc.php:310
+msgid "TeaMug"
+msgstr ""
+
+#: src/helpers/vc.php:312
+msgid "Soda"
+msgstr ""
+
+#: src/helpers/vc.php:313
+msgid "SodaCan"
+msgstr ""
+
+#: src/helpers/vc.php:314
+msgid "SimCard"
+msgstr ""
+
+#: src/helpers/vc.php:315
+msgid "Signal"
+msgstr ""
+
+#: src/helpers/vc.php:316
+msgid "Shaker"
+msgstr ""
+
+#: src/helpers/vc.php:317
+msgid "Radio"
+msgstr ""
+
+#: src/helpers/vc.php:318
+msgid "Pizza"
+msgstr ""
+
+#: src/helpers/vc.php:319 src/meta-data/meta-boxes.php:68
+msgid "Phone"
+msgstr ""
+
+#: src/helpers/vc.php:320
+msgid "Notebook"
+msgstr ""
+
+#: src/helpers/vc.php:321
+msgid "Mug"
+msgstr ""
+
+#: src/helpers/vc.php:322
+msgid "Mastercard"
+msgstr ""
+
+#: src/helpers/vc.php:323
+msgid "Ipod"
+msgstr ""
+
+#: src/helpers/vc.php:324
+msgid "Info"
+msgstr ""
+
+#: src/helpers/vc.php:325
+msgid "Icecream 1"
+msgstr ""
+
+#: src/helpers/vc.php:326
+msgid "Icecream 2"
+msgstr ""
+
+#: src/helpers/vc.php:327
+msgid "Hourglass"
+msgstr ""
+
+#: src/helpers/vc.php:328
+msgid "Help"
+msgstr ""
+
+#: src/helpers/vc.php:329
+msgid "Goto"
+msgstr ""
+
+#: src/helpers/vc.php:330
+msgid "Glasses"
+msgstr ""
+
+#: src/helpers/vc.php:331
+msgid "Gameboy"
+msgstr ""
+
+#: src/helpers/vc.php:332
+msgid "ForkandKnife"
+msgstr ""
+
+#: src/helpers/vc.php:333
+msgid "Export"
+msgstr ""
+
+#: src/helpers/vc.php:334
+msgid "Exit"
+msgstr ""
+
+#: src/helpers/vc.php:335
+msgid "Espresso"
+msgstr ""
+
+#: src/helpers/vc.php:336
+msgid "Drop"
+msgstr ""
+
+#: src/helpers/vc.php:338
+msgid "Dollars"
+msgstr ""
+
+#: src/helpers/vc.php:339
+msgid "Dollar"
+msgstr ""
+
+#: src/helpers/vc.php:340
+msgid "Desktop Monitor"
+msgstr ""
+
+#: src/helpers/vc.php:341
+msgid "Corkscrew"
+msgstr ""
+
+#: src/helpers/vc.php:342
+msgid "Coffee To Go"
+msgstr ""
+
+#: src/helpers/vc.php:344
+msgid "Chart Up"
+msgstr ""
+
+#: src/helpers/vc.php:345
+msgid "Chart Down"
+msgstr ""
+
+#: src/helpers/vc.php:346
+msgid "Calculator"
+msgstr ""
+
+#: src/helpers/vc.php:347
+msgid "Bread"
+msgstr ""
+
+#: src/helpers/vc.php:348
+msgid "Bourbon"
+msgstr ""
+
+#: src/helpers/vc.php:349
+msgid "Bottle of Wine"
+msgstr ""
+
+#: src/helpers/vc.php:351
+msgid "Arrow"
+msgstr ""
+
+#: src/helpers/vc.php:352
+msgid "Antenna1"
+msgstr ""
+
+#: src/helpers/vc.php:353
+msgid "Antenna2"
+msgstr ""
+
+#: src/helpers/vc.php:354
+msgid "Anchor"
+msgstr ""
+
+#: src/helpers/vc.php:355
+msgid "Wheelbarrow"
+msgstr ""
+
+#: src/helpers/vc.php:356
+msgid "Webcam"
+msgstr ""
+
+#: src/helpers/vc.php:357
+msgid "Unlinked"
+msgstr ""
+
+#: src/helpers/vc.php:359
+msgid "Timer"
+msgstr ""
+
+#: src/helpers/vc.php:360
+msgid "Time"
+msgstr ""
+
+#: src/helpers/vc.php:361
+msgid "Storage Box"
+msgstr ""
+
+#: src/helpers/vc.php:362
+msgid "Star"
+msgstr ""
+
+#: src/helpers/vc.php:363
+msgid "Shopping Cart"
+msgstr ""
+
+#: src/helpers/vc.php:364
+msgid "Shield"
+msgstr ""
+
+#: src/helpers/vc.php:365
+msgid "Seringe"
+msgstr ""
+
+#: src/helpers/vc.php:366
+msgid "Pulse"
+msgstr ""
+
+#: src/helpers/vc.php:367
+msgid "Plaster"
+msgstr ""
+
+#: src/helpers/vc.php:368
+msgid "Plaine"
+msgstr ""
+
+#: src/helpers/vc.php:369
+msgid "Pill"
+msgstr ""
+
+#: src/helpers/vc.php:370
+msgid "Picnic Basket"
+msgstr ""
+
+#: src/helpers/vc.php:371
+msgid "Phone2"
+msgstr ""
+
+#: src/helpers/vc.php:372
+msgid "Pencil"
+msgstr ""
+
+#: src/helpers/vc.php:373
+msgid "Pen"
+msgstr ""
+
+#: src/helpers/vc.php:374
+msgid "Paper Clip"
+msgstr ""
+
+#: src/helpers/vc.php:375
+msgid "On Off"
+msgstr ""
+
+#: src/helpers/vc.php:376
+msgid "Mouse"
+msgstr ""
+
+#: src/helpers/vc.php:377
+msgid "Megaphone"
+msgstr ""
+
+#: src/helpers/vc.php:378
+msgid "Linked"
+msgstr ""
+
+#: src/helpers/vc.php:379
+msgid "Keyboard"
+msgstr ""
+
+#: src/helpers/vc.php:381
+msgid "Heart"
+msgstr ""
+
+#: src/helpers/vc.php:382
+msgid "Headset"
+msgstr ""
+
+#: src/helpers/vc.php:383
+msgid "Full Shopping Cart"
+msgstr ""
+
+#: src/helpers/vc.php:384 src/shortcodes/clever-parallax-box.php:92
+msgid "Full Screen"
+msgstr ""
+
+#: src/helpers/vc.php:385
+msgid "Folder"
+msgstr ""
+
+#: src/helpers/vc.php:386
+msgid "Floppy"
+msgstr ""
+
+#: src/helpers/vc.php:387
+msgid "Files"
+msgstr ""
+
+#: src/helpers/vc.php:388
+msgid "File"
+msgstr ""
+
+#: src/helpers/vc.php:389
+msgid "File Box"
+msgstr ""
+
+#: src/helpers/vc.php:390
+msgid "Exit Full Screen"
+msgstr ""
+
+#: src/helpers/vc.php:391
+msgid "Empty Box"
+msgstr ""
+
+#: src/helpers/vc.php:392
+msgid "Delete"
+msgstr ""
+
+#: src/helpers/vc.php:393
+msgid "Controller"
+msgstr ""
+
+#: src/helpers/vc.php:395
+msgid "Compass Tool"
+msgstr ""
+
+#: src/helpers/vc.php:396
+msgid "Clipboard Text"
+msgstr ""
+
+#: src/helpers/vc.php:397
+msgid "Clipboard Chart"
+msgstr ""
+
+#: src/helpers/vc.php:398
+msgid "Chemical Glass"
+msgstr ""
+
+#: src/helpers/vc.php:399
+msgid "Cd"
+msgstr ""
+
+#: src/helpers/vc.php:400
+msgid "Carioca"
+msgstr ""
+
+#: src/helpers/vc.php:402
+msgid "Book"
+msgstr ""
+
+#: src/helpers/vc.php:403
+msgid "Big Truck"
+msgstr ""
+
+#: src/helpers/vc.php:404
+msgid "Bicycle"
+msgstr ""
+
+#: src/helpers/vc.php:405
+msgid "Wrench"
+msgstr ""
+
+#: src/helpers/vc.php:406
+msgid "Web"
+msgstr ""
+
+#: src/helpers/vc.php:407
+msgid "Watch"
+msgstr ""
+
+#: src/helpers/vc.php:408
+msgid "Volume"
+msgstr ""
+
+#: src/helpers/vc.php:409
+msgid "Video"
+msgstr ""
+
+#: src/helpers/vc.php:410
+msgid "Users"
+msgstr ""
+
+#: src/helpers/vc.php:412
+msgid "Upload CLoud"
+msgstr ""
+
+#: src/helpers/vc.php:413
+msgid "Typing"
+msgstr ""
+
+#: src/helpers/vc.php:414
+msgid "Tools"
+msgstr ""
+
+#: src/helpers/vc.php:415
+msgid "Tag"
+msgstr ""
+
+#: src/helpers/vc.php:416
+msgid "Speedometter"
+msgstr ""
+
+#: src/helpers/vc.php:417
+msgid "Share"
+msgstr ""
+
+#: src/helpers/vc.php:418
+msgid "Settings"
+msgstr ""
+
+#: src/helpers/vc.php:419
+msgid "Search"
+msgstr ""
+
+#: src/helpers/vc.php:420
+msgid "Screwdriver"
+msgstr ""
+
+#: src/helpers/vc.php:421
+msgid "Rolodex"
+msgstr ""
+
+#: src/helpers/vc.php:422
+msgid "Ringer"
+msgstr ""
+
+#: src/helpers/vc.php:423
+msgid "Resume"
+msgstr ""
+
+#: src/helpers/vc.php:424
+msgid "Restart"
+msgstr ""
+
+#: src/helpers/vc.php:425
+msgid "Power Off"
+msgstr ""
+
+#: src/helpers/vc.php:426
+msgid "Pointer"
+msgstr ""
+
+#: src/helpers/vc.php:428
+msgid "Opened Lock"
+msgstr ""
+
+#: src/helpers/vc.php:429
+msgid "Notes"
+msgstr ""
+
+#: src/helpers/vc.php:430
+msgid "Mute"
+msgstr ""
+
+#: src/helpers/vc.php:431
+msgid "Movie"
+msgstr ""
+
+#: src/helpers/vc.php:432
+msgid "Microphone 2"
+msgstr ""
+
+#: src/helpers/vc.php:433
+msgid "Message"
+msgstr ""
+
+#: src/helpers/vc.php:434
+msgid "Message Right"
+msgstr ""
+
+#: src/helpers/vc.php:435
+msgid "Message Left"
+msgstr ""
+
+#: src/helpers/vc.php:436
+msgid "Menu"
+msgstr ""
+
+#: src/helpers/vc.php:437
+msgid "Media"
+msgstr ""
+
+#: src/helpers/vc.php:438
+msgid "Mail"
+msgstr ""
+
+#: src/helpers/vc.php:440
+msgid "Layers"
+msgstr ""
+
+#: src/helpers/vc.php:441
+msgid "Key"
+msgstr ""
+
+#: src/helpers/vc.php:442
+msgid "Imbox"
+msgstr ""
+
+#: src/helpers/vc.php:443
+msgid "Eye"
+msgstr ""
+
+#: src/helpers/vc.php:444
+msgid "Edit"
+msgstr ""
+
+#: src/helpers/vc.php:445
+msgid "DSLR Camera"
+msgstr ""
+
+#: src/helpers/vc.php:446
+msgid "Download Cloud"
+msgstr ""
+
+#: src/helpers/vc.php:447
+msgid "Compact Camera"
+msgstr ""
+
+#: src/helpers/vc.php:448
+msgid "Cloud"
+msgstr ""
+
+#: src/helpers/vc.php:449
+msgid "Closed Lock"
+msgstr ""
+
+#: src/helpers/vc.php:450
+msgid "Chart 2"
+msgstr ""
+
+#: src/helpers/vc.php:451
+msgid "Bulb"
+msgstr ""
+
+#: src/helpers/vc.php:453
+msgid "Blog"
+msgstr ""
+
+#: src/helpers/vc.php:454
+msgid "Agenda"
+msgstr ""
+
+#: src/helpers/vc.php:627
+msgid "Attention Seekers"
+msgstr ""
+
+#: src/helpers/vc.php:636
+msgid "Bouncing Entrances"
+msgstr ""
+
+#: src/helpers/vc.php:645
+msgid "Fading Entrances"
+msgstr ""
+
+#: src/helpers/vc.php:654
+msgid "Flippers"
+msgstr ""
+
+#: src/helpers/vc.php:663
+msgid "Lightspeed"
+msgstr ""
+
+#: src/helpers/vc.php:672
+msgid "Rotating Entrances"
+msgstr ""
+
+#: src/helpers/vc.php:681
+msgid "Sliders"
+msgstr ""
+
+#: src/helpers/vc.php:689
+msgid "Zoom Entrances"
+msgstr ""
+
+#: src/helpers/vc.php:698
+msgid "Specials"
+msgstr ""
+
+#: src/helpers/vc.php:854
+msgid "Full"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:19
+msgid "Post Meta"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:24
+msgid "Author avatar"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:25
+msgid "Author avatar display in frontend"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:31
+msgid "Author name"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:32
+msgid "Author name display in frontend"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:37
+msgid "Author description"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:38
+msgid "Author description display in frontend"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:45
+msgid "Team member information"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:50
+msgid "Team member position"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:51
+msgid "Team member position display in frontend"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:56
+msgid "Experience"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:57
+msgid "Team member experience display in frontend"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:62
+msgid "Team member description"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:63
+msgid "Team member description display in frontend"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:69
+msgid "Phone number of team member"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:73
+msgid "Email"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:74
+msgid "Email of team member"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:78
+msgid "Facebook profile"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:79 src/meta-data/meta-boxes.php:84
+#: src/meta-data/meta-boxes.php:89 src/meta-data/meta-boxes.php:94
+#: src/meta-data/meta-boxes.php:99
+msgid "Full url profile of team member"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:83
+msgid "Twitter profile"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:88
+msgid "Google plus profile"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:93
+msgid "LinkedIn profile"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:98
+msgid "Youtube profile"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:106 src/meta-data/meta-boxes.php:112
+msgid "Project complete"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:115
+msgid "Please enter following details:"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:117
+#: src/shortcodes/clever-sensei-courses.php:105
+msgid "Name"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:118
+msgid "Date complete"
+msgstr ""
+
+#: src/meta-data/meta-boxes.php:119
+msgid "Project url"
+msgstr ""
+
+#: src/post-types/service.php:18
+msgid "Services"
+msgstr ""
+
+#: src/post-types/service.php:19
+msgid "Service Item"
+msgstr ""
+
+#: src/post-types/service.php:20 src/post-types/team-member.php:20
+#: src/post-types/testimonial.php:20
+msgid "Add New"
+msgstr ""
+
+#: src/post-types/service.php:21
+msgid "Add New Service Item"
+msgstr ""
+
+#: src/post-types/service.php:22
+msgid "Edit Service Item"
+msgstr ""
+
+#: src/post-types/service.php:23
+msgid "New Service Item"
+msgstr ""
+
+#: src/post-types/service.php:24
+msgid "View Service Item"
+msgstr ""
+
+#: src/post-types/service.php:25
+msgid "Search Service"
+msgstr ""
+
+#: src/post-types/service.php:26
+msgid "No Service items have been added yet"
+msgstr ""
+
+#: src/post-types/service.php:27 src/post-types/team-member.php:27
+#: src/post-types/testimonial.php:27
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: src/post-types/service.php:70 src/post-types/service.php:73
+msgid "Service updated."
+msgstr ""
+
+#: src/post-types/service.php:71 src/post-types/team-member.php:87
+#: src/post-types/testimonial.php:81
+msgid "Custom field updated."
+msgstr ""
+
+#: src/post-types/service.php:72 src/post-types/team-member.php:88
+#: src/post-types/testimonial.php:82
+msgid "Custom field deleted."
+msgstr ""
+
+#: src/post-types/service.php:74
+msgid "Service restored to revision from"
+msgstr ""
+
+#: src/post-types/service.php:75
+msgid "Service published."
+msgstr ""
+
+#: src/post-types/service.php:76
+msgid "Service saved."
+msgstr ""
+
+#: src/post-types/service.php:77
+msgid "Service submitted."
+msgstr ""
+
+#: src/post-types/service.php:78
+msgid "Service scheduled."
+msgstr ""
+
+#: src/post-types/service.php:79
+msgid "Service draft updated."
+msgstr ""
+
+#: src/post-types/team-member.php:18 src/post-types/team-member.php:19
+msgid "Team Member"
+msgstr ""
+
+#: src/post-types/team-member.php:21 src/post-types/testimonial.php:21
+msgid "Add New Testimonial"
+msgstr ""
+
+#: src/post-types/team-member.php:22
+msgid "Edit Team Member"
+msgstr ""
+
+#: src/post-types/team-member.php:23
+msgid "New Team Member"
+msgstr ""
+
+#: src/post-types/team-member.php:24
+msgid "View Team Member"
+msgstr ""
+
+#: src/post-types/team-member.php:25
+msgid "Search Team Members"
+msgstr ""
+
+#: src/post-types/team-member.php:26
+msgid "No team members have been added yet"
+msgstr ""
+
+#: src/post-types/team-member.php:51
+msgid "Team Categories"
+msgstr ""
+
+#: src/post-types/team-member.php:52
+msgid "Team Category"
+msgstr ""
+
+#: src/post-types/team-member.php:86 src/post-types/team-member.php:89
+msgid "Team member updated."
+msgstr ""
+
+#: src/post-types/team-member.php:90
+msgid "Team member restored to revision from"
+msgstr ""
+
+#: src/post-types/team-member.php:91
+msgid "Team member published."
+msgstr ""
+
+#: src/post-types/team-member.php:92
+msgid "Team member saved."
+msgstr ""
+
+#: src/post-types/team-member.php:93
+msgid "Team member submitted."
+msgstr ""
+
+#: src/post-types/team-member.php:94
+msgid "Team member scheduled."
+msgstr ""
+
+#: src/post-types/team-member.php:95
+msgid "Team member draft updated."
+msgstr ""
+
+#: src/post-types/testimonial.php:18
+msgid "Testimonials"
+msgstr ""
+
+#: src/post-types/testimonial.php:19
+msgid "Testimonial"
+msgstr ""
+
+#: src/post-types/testimonial.php:22
+msgid "Edit Testimonial"
+msgstr ""
+
+#: src/post-types/testimonial.php:23
+msgid "New Testimonial"
+msgstr ""
+
+#: src/post-types/testimonial.php:24
+msgid "View Testimonial"
+msgstr ""
+
+#: src/post-types/testimonial.php:25
+msgid "Search Testimonials"
+msgstr ""
+
+#: src/post-types/testimonial.php:26
+msgid "No testimonials have been added yet"
+msgstr ""
+
+#: src/post-types/testimonial.php:46
+msgid "Testimonial Categories"
+msgstr ""
+
+#: src/post-types/testimonial.php:47
+msgid "Testimonial Category"
+msgstr ""
+
+#: src/post-types/testimonial.php:80 src/post-types/testimonial.php:83
+msgid "Testimonial updated."
+msgstr ""
+
+#: src/post-types/testimonial.php:84
+msgid "Testimonial restored to revision from"
+msgstr ""
+
+#: src/post-types/testimonial.php:85
+msgid "Testimonial published."
+msgstr ""
+
+#: src/post-types/testimonial.php:86
+msgid "Testimonial saved."
+msgstr ""
+
+#: src/post-types/testimonial.php:87
+msgid "Testimonial submitted."
+msgstr ""
+
+#: src/post-types/testimonial.php:88
+msgid "Testimonial scheduled."
+msgstr ""
+
+#: src/post-types/testimonial.php:89
+msgid "Testimonial draft updated."
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:44
+msgid "Clever Auto Typing"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:46
+#: src/shortcodes/clever-banner-slider.php:44
+#: src/shortcodes/clever-banner.php:46 src/shortcodes/clever-blog.php:78
+#: src/shortcodes/clever-boxes.php:68 src/shortcodes/clever-contact.php:44
+#: src/shortcodes/clever-countdown.php:42 src/shortcodes/clever-countup.php:46
+#: src/shortcodes/clever-demo-box.php:54 src/shortcodes/clever-events.php:51
+#: src/shortcodes/clever-feature-box.php:67
+#: src/shortcodes/clever-follow-me.php:40 src/shortcodes/clever-heading.php:50
+#: src/shortcodes/clever-image-gallery.php:47
+#: src/shortcodes/clever-instagram.php:58 src/shortcodes/clever-links.php:39
+#: src/shortcodes/clever-maps.php:49 src/shortcodes/clever-masonry-block.php:44
+#: src/shortcodes/clever-multi-banner.php:44
+#: src/shortcodes/clever-one-page-box-control.php:47
+#: src/shortcodes/clever-one-page-box.php:59
+#: src/shortcodes/clever-parallax-box.php:47
+#: src/shortcodes/clever-posts-box.php:95
+#: src/shortcodes/clever-product-ids.php:64
+#: src/shortcodes/clever-product.php:209
+#: src/shortcodes/clever-sensei-courses.php:61
+#: src/shortcodes/clever-service.php:50
+#: src/shortcodes/clever-team-member-lite.php:56
+#: src/shortcodes/clever-team-member.php:56
+#: src/shortcodes/clever-testimonial.php:57
+#: src/shortcodes/clever-timeline.php:43 src/shortcodes/clever-video.php:50
+msgid "CleverSoft"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:51
+msgid "Fixed text"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:53
+msgid "This text is fixed, not has effect."
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:57
+#: src/shortcodes/clever-contact.php:85 src/shortcodes/clever-demo-box.php:61
+#: src/shortcodes/clever-feature-box.php:74
+msgid "Text"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:64
+msgid "Text Item"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:71
+msgid "Font size"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:74
+#: src/shortcodes/clever-auto-typing.php:97
+#: src/shortcodes/clever-auto-typing.php:105
+#: src/shortcodes/clever-countdown.php:81
+msgid "Apply only number."
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:78
+msgid "Text transform"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:81 src/shortcodes/clever-blog.php:171
+#: src/shortcodes/clever-blog.php:182 src/shortcodes/clever-boxes.php:256
+#: src/shortcodes/clever-events.php:72
+#: src/shortcodes/clever-feature-box.php:336
+#: src/shortcodes/clever-posts-box.php:241
+#: src/shortcodes/clever-service.php:143 src/shortcodes/clever-service.php:154
+#: src/shortcodes/clever-team-member.php:101
+msgid "None"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:82
+msgid "Uppercase"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:83
+msgid "Lowercase"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:84
+msgid "Inherit"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:85
+msgid "Full width"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:86
+msgid "Capitalize"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:89
+msgid "Text transform style."
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:93
+msgid "Type Speed"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:101
+msgid "Delay time"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:109
+msgid "Fixed text color"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:113
+msgid "Color of fixed text."
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:117
+#: src/shortcodes/clever-countup.php:69
+msgid "Text color"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:121
+msgid "Color of text."
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:125
+msgid "Show Cursor"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:128 src/shortcodes/clever-blog.php:130
+#: src/shortcodes/clever-blog.php:203 src/shortcodes/clever-blog.php:212
+#: src/shortcodes/clever-events.php:83 src/shortcodes/clever-events.php:90
+#: src/shortcodes/clever-events.php:97 src/shortcodes/clever-events.php:104
+#: src/shortcodes/clever-events.php:118 src/shortcodes/clever-instagram.php:92
+#: src/shortcodes/clever-instagram.php:119
+#: src/shortcodes/clever-instagram.php:126
+#: src/shortcodes/clever-instagram.php:133
+#: src/shortcodes/clever-instagram.php:140
+#: src/shortcodes/clever-instagram.php:165
+#: src/shortcodes/clever-instagram.php:172 src/shortcodes/clever-maps.php:100
+#: src/shortcodes/clever-masonry-block.php:52
+#: src/shortcodes/clever-one-page-box.php:75
+#: src/shortcodes/clever-one-page-box.php:81
+#: src/shortcodes/clever-one-page-box.php:88
+#: src/shortcodes/clever-one-page-box.php:95
+#: src/shortcodes/clever-parallax-box.php:55
+#: src/shortcodes/clever-parallax-box.php:62
+#: src/shortcodes/clever-posts-box.php:316
+#: src/shortcodes/clever-posts-box.php:383
+#: src/shortcodes/clever-posts-box.php:403
+#: src/shortcodes/clever-product-ids.php:121
+#: src/shortcodes/clever-product-ids.php:130
+#: src/shortcodes/clever-product-ids.php:138
+#: src/shortcodes/clever-product-ids.php:146
+#: src/shortcodes/clever-product-ids.php:153
+#: src/shortcodes/clever-product.php:276 src/shortcodes/clever-product.php:304
+#: src/shortcodes/clever-product.php:313 src/shortcodes/clever-product.php:322
+#: src/shortcodes/clever-product.php:330 src/shortcodes/clever-product.php:338
+#: src/shortcodes/clever-product.php:345 src/shortcodes/clever-product.php:366
+#: src/shortcodes/clever-product.php:395 src/shortcodes/clever-product.php:425
+#: src/shortcodes/clever-sensei-courses.php:115
+#: src/shortcodes/clever-sensei-courses.php:129
+#: src/shortcodes/clever-sensei-courses.php:136
+#: src/shortcodes/clever-sensei-courses.php:143
+#: src/shortcodes/clever-sensei-courses.php:150
+#: src/shortcodes/clever-sensei-courses.php:157
+#: src/shortcodes/clever-sensei-courses.php:164
+#: src/shortcodes/clever-sensei-courses.php:171
+#: src/shortcodes/clever-sensei-courses.php:178
+#: src/shortcodes/clever-sensei-courses.php:185
+#: src/shortcodes/clever-service.php:117 src/shortcodes/clever-service.php:172
+#: src/shortcodes/clever-team-member.php:145
+#: src/shortcodes/clever-team-member.php:153
+#: src/shortcodes/clever-testimonial.php:137
+#: src/shortcodes/clever-testimonial.php:161
+#: src/shortcodes/clever-testimonial.php:173
+msgid "Yes"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:133
+#: src/shortcodes/clever-banner-slider.php:119
+#: src/shortcodes/clever-banner.php:102 src/shortcodes/clever-blog.php:225
+#: src/shortcodes/clever-boxes.php:362 src/shortcodes/clever-boxes.php:371
+#: src/shortcodes/clever-contact.php:93 src/shortcodes/clever-countdown.php:85
+#: src/shortcodes/clever-countup.php:117 src/shortcodes/clever-demo-box.php:169
+#: src/shortcodes/clever-events.php:122
+#: src/shortcodes/clever-feature-box.php:437
+#: src/shortcodes/clever-follow-me.php:87 src/shortcodes/clever-heading.php:135
+#: src/shortcodes/clever-image-gallery.php:121
+#: src/shortcodes/clever-instagram.php:192 src/shortcodes/clever-links.php:75
+#: src/shortcodes/clever-maps.php:125
+#: src/shortcodes/clever-multi-banner.php:136
+#: src/shortcodes/clever-sensei-courses.php:199
+#: src/shortcodes/clever-service.php:177
+#: src/shortcodes/clever-team-member-lite.php:173
+#: src/shortcodes/clever-team-member.php:167
+#: src/shortcodes/clever-testimonial.php:189
+#: src/shortcodes/clever-timeline.php:82 src/shortcodes/clever-video.php:110
+msgid "Extra class name"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:135
+#: src/shortcodes/clever-banner-slider.php:121
+#: src/shortcodes/clever-banner.php:104 src/shortcodes/clever-blog.php:227
+#: src/shortcodes/clever-boxes.php:373 src/shortcodes/clever-contact.php:95
+#: src/shortcodes/clever-countdown.php:87 src/shortcodes/clever-countup.php:119
+#: src/shortcodes/clever-demo-box.php:171 src/shortcodes/clever-events.php:124
+#: src/shortcodes/clever-feature-box.php:439
+#: src/shortcodes/clever-follow-me.php:90 src/shortcodes/clever-heading.php:137
+#: src/shortcodes/clever-image-gallery.php:123
+#: src/shortcodes/clever-instagram.php:194 src/shortcodes/clever-links.php:78
+#: src/shortcodes/clever-maps.php:127
+#: src/shortcodes/clever-multi-banner.php:138
+#: src/shortcodes/clever-product-ids.php:160
+#: src/shortcodes/clever-product.php:352
+#: src/shortcodes/clever-sensei-courses.php:201
+#: src/shortcodes/clever-service.php:180
+#: src/shortcodes/clever-team-member-lite.php:175
+#: src/shortcodes/clever-timeline.php:84 src/shortcodes/clever-video.php:112
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:139
+#: src/shortcodes/clever-banner.php:108 src/shortcodes/clever-boxes.php:379
+#: src/shortcodes/clever-contact.php:99 src/shortcodes/clever-countdown.php:91
+#: src/shortcodes/clever-countup.php:123 src/shortcodes/clever-demo-box.php:175
+#: src/shortcodes/clever-events.php:128
+#: src/shortcodes/clever-feature-box.php:445
+#: src/shortcodes/clever-heading.php:141
+#: src/shortcodes/clever-instagram.php:198 src/shortcodes/clever-maps.php:133
+#: src/shortcodes/clever-masonry-block.php:60
+#: src/shortcodes/clever-multi-banner.php:142
+#: src/shortcodes/clever-one-page-box-control.php:85
+#: src/shortcodes/clever-one-page-box.php:299
+#: src/shortcodes/clever-parallax-box.php:97
+#: src/shortcodes/clever-product-ids.php:164
+#: src/shortcodes/clever-product.php:450
+#: src/shortcodes/clever-sensei-courses.php:205
+#: src/shortcodes/clever-team-member-lite.php:179
+#: src/shortcodes/clever-team-member.php:174
+#: src/shortcodes/clever-testimonial.php:196
+#: src/shortcodes/clever-timeline.php:88 src/shortcodes/clever-video.php:117
+msgid "Css"
+msgstr ""
+
+#: src/shortcodes/clever-auto-typing.php:141
+#: src/shortcodes/clever-banner.php:110 src/shortcodes/clever-boxes.php:381
+#: src/shortcodes/clever-contact.php:101 src/shortcodes/clever-countdown.php:93
+#: src/shortcodes/clever-countup.php:125 src/shortcodes/clever-demo-box.php:177
+#: src/shortcodes/clever-events.php:130
+#: src/shortcodes/clever-feature-box.php:447
+#: src/shortcodes/clever-heading.php:143
+#: src/shortcodes/clever-instagram.php:200 src/shortcodes/clever-maps.php:135
+#: src/shortcodes/clever-masonry-block.php:62
+#: src/shortcodes/clever-multi-banner.php:144
+#: src/shortcodes/clever-one-page-box-control.php:87
+#: src/shortcodes/clever-one-page-box.php:301
+#: src/shortcodes/clever-parallax-box.php:99
+#: src/shortcodes/clever-product-ids.php:166
+#: src/shortcodes/clever-product.php:452
+#: src/shortcodes/clever-sensei-courses.php:207
+#: src/shortcodes/clever-team-member-lite.php:181
+#: src/shortcodes/clever-team-member.php:176
+#: src/shortcodes/clever-testimonial.php:198
+#: src/shortcodes/clever-timeline.php:90 src/shortcodes/clever-video.php:119
+msgid "Design options"
+msgstr ""
+
+#: src/shortcodes/clever-banner-slider.php:41
+msgid "Clever Banner Slider"
+msgstr ""
+
+#: src/shortcodes/clever-banner-slider.php:45
+msgid "Simple banner slider"
+msgstr ""
+
+#: src/shortcodes/clever-banner-slider.php:49
+#: src/shortcodes/clever-blog.php:102
+#: src/shortcodes/clever-image-gallery.php:59
+#: src/shortcodes/clever-instagram.php:82
+#: src/shortcodes/clever-multi-banner.php:91
+#: src/shortcodes/clever-posts-box.php:363 src/shortcodes/clever-service.php:86
+#: src/shortcodes/clever-team-member.php:120
+#: src/shortcodes/clever-testimonial.php:143
+msgid "Columns"
+msgstr ""
+
+#: src/shortcodes/clever-banner-slider.php:50
+#: src/shortcodes/clever-image-gallery.php:60
+msgid "Number columns of layout"
+msgstr ""
+
+#: src/shortcodes/clever-banner-slider.php:57
+msgid "Banners"
+msgstr ""
+
+#: src/shortcodes/clever-banner-slider.php:60
+#: src/shortcodes/clever-contact.php:74
+#: src/shortcodes/clever-image-gallery.php:81
+msgid "Click to show more options, and starting add content."
+msgstr ""
+
+#: src/shortcodes/clever-banner-slider.php:64
+#: src/shortcodes/clever-banner.php:51 src/shortcodes/clever-boxes.php:186
+#: src/shortcodes/clever-boxes.php:193 src/shortcodes/clever-boxes.php:257
+#: src/shortcodes/clever-contact.php:55 src/shortcodes/clever-demo-box.php:62
+#: src/shortcodes/clever-demo-box.php:80
+#: src/shortcodes/clever-feature-box.php:76
+#: src/shortcodes/clever-feature-box.php:83
+#: src/shortcodes/clever-feature-box.php:337
+#: src/shortcodes/clever-image-gallery.php:86
+#: src/shortcodes/clever-multi-banner.php:79
+msgid "Image"
+msgstr ""
+
+#: src/shortcodes/clever-banner-slider.php:72
+#: src/shortcodes/clever-image-gallery.php:94
+msgid "Link of Image"
+msgstr ""
+
+#: src/shortcodes/clever-banner-slider.php:76
+#: src/shortcodes/clever-banner.php:80 src/shortcodes/clever-blog.php:83
+#: src/shortcodes/clever-boxes.php:73 src/shortcodes/clever-boxes.php:342
+#: src/shortcodes/clever-contact.php:49 src/shortcodes/clever-countup.php:51
+#: src/shortcodes/clever-demo-box.php:104 src/shortcodes/clever-events.php:56
+#: src/shortcodes/clever-feature-box.php:415
+#: src/shortcodes/clever-follow-me.php:45 src/shortcodes/clever-heading.php:55
+#: src/shortcodes/clever-image-gallery.php:52
+#: src/shortcodes/clever-instagram.php:63 src/shortcodes/clever-links.php:44
+#: src/shortcodes/clever-maps.php:61 src/shortcodes/clever-multi-banner.php:115
+#: src/shortcodes/clever-one-page-box-control.php:52
+#: src/shortcodes/clever-one-page-box.php:64
+#: src/shortcodes/clever-parallax-box.php:66
+#: src/shortcodes/clever-posts-box.php:198
+#: src/shortcodes/clever-product.php:255
+#: src/shortcodes/clever-sensei-courses.php:66
+#: src/shortcodes/clever-service.php:55
+#: src/shortcodes/clever-team-member.php:60
+#: src/shortcodes/clever-testimonial.php:61
+#: src/shortcodes/clever-timeline.php:48 src/shortcodes/clever-video.php:61
+msgid "Title"
+msgstr ""
+
+#: src/shortcodes/clever-banner-slider.php:78
+msgid "Primary content"
+msgstr ""
+
+#: src/shortcodes/clever-banner-slider.php:82
+msgid "Descriptions"
+msgstr ""
+
+#: src/shortcodes/clever-banner-slider.php:84
+msgid "description content"
+msgstr ""
+
+#: src/shortcodes/clever-banner-slider.php:88
+#: src/shortcodes/clever-boxes.php:272
+#: src/shortcodes/clever-feature-box.php:345
+msgid "Box Background Color"
+msgstr ""
+
+#: src/shortcodes/clever-banner-slider.php:89
+msgid "Background of block text content"
+msgstr ""
+
+#: src/shortcodes/clever-banner-slider.php:95
+msgid "Text Color"
+msgstr ""
+
+#: src/shortcodes/clever-banner-slider.php:96
+msgid "Color of text content"
+msgstr ""
+
+#: src/shortcodes/clever-banner-slider.php:104
+#: src/shortcodes/clever-image-gallery.php:100
+msgid "Show pagination"
+msgstr ""
+
+#: src/shortcodes/clever-banner-slider.php:106
+#: src/shortcodes/clever-image-gallery.php:102
+msgid "If check, pagination of gallery will show"
+msgstr ""
+
+#: src/shortcodes/clever-banner-slider.php:111
+#: src/shortcodes/clever-image-gallery.php:107
+msgid "Show navigation"
+msgstr ""
+
+#: src/shortcodes/clever-banner-slider.php:113
+#: src/shortcodes/clever-image-gallery.php:109
+msgid "If check, navigation of gallery will show"
+msgstr ""
+
+#: src/shortcodes/clever-banner.php:43
+msgid "Clever Banner"
+msgstr ""
+
+#: src/shortcodes/clever-banner.php:47
+msgid "Display your single banner image"
+msgstr ""
+
+#: src/shortcodes/clever-banner.php:53
+#: src/shortcodes/clever-multi-banner.php:81
+msgid "Image of banner"
+msgstr ""
+
+#: src/shortcodes/clever-banner.php:57
+#: src/shortcodes/clever-multi-banner.php:85
+#: src/shortcodes/clever-testimonial.php:182 src/shortcodes/clever-video.php:82
+msgid "Image overlay color"
+msgstr ""
+
+#: src/shortcodes/clever-banner.php:63
+#: src/shortcodes/clever-multi-banner.php:98
+msgid "Content Box Align"
+msgstr ""
+
+#: src/shortcodes/clever-banner.php:67
+#: src/shortcodes/clever-multi-banner.php:102
+msgid "Top Left"
+msgstr ""
+
+#: src/shortcodes/clever-banner.php:68
+#: src/shortcodes/clever-multi-banner.php:103
+msgid "Top Right"
+msgstr ""
+
+#: src/shortcodes/clever-banner.php:69
+#: src/shortcodes/clever-multi-banner.php:104
+msgid "Top Center"
+msgstr ""
+
+#: src/shortcodes/clever-banner.php:70
+#: src/shortcodes/clever-multi-banner.php:105
+msgid "Center Left"
+msgstr ""
+
+#: src/shortcodes/clever-banner.php:71
+#: src/shortcodes/clever-multi-banner.php:106
+msgid "Center Right"
+msgstr ""
+
+#: src/shortcodes/clever-banner.php:72 src/shortcodes/clever-boxes.php:323
+#: src/shortcodes/clever-feature-box.php:396
+#: src/shortcodes/clever-multi-banner.php:107
+msgid "Center Center"
+msgstr ""
+
+#: src/shortcodes/clever-banner.php:73
+#: src/shortcodes/clever-multi-banner.php:108
+msgid "Bottom Left"
+msgstr ""
+
+#: src/shortcodes/clever-banner.php:74
+#: src/shortcodes/clever-multi-banner.php:109
+msgid "Bottom Right"
+msgstr ""
+
+#: src/shortcodes/clever-banner.php:75
+#: src/shortcodes/clever-multi-banner.php:110
+msgid "Bottom Center"
+msgstr ""
+
+#: src/shortcodes/clever-banner.php:89
+#: src/shortcodes/clever-feature-box.php:424
+#: src/shortcodes/clever-multi-banner.php:122
+#: src/shortcodes/clever-video.php:69
+msgid "Content"
+msgstr ""
+
+#: src/shortcodes/clever-banner.php:92
+#: src/shortcodes/clever-feature-box.php:427
+#: src/shortcodes/clever-multi-banner.php:125
+#: src/shortcodes/clever-video.php:72
+msgid "Enter your content."
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:76
+msgid "Clever Blog"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:86 src/shortcodes/clever-service.php:58
+msgid ""
+"Enter text used as shortcode title (Note: located above content element)"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:98
+msgid "Layout of posts"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:106 src/shortcodes/clever-boxes.php:82
+#: src/shortcodes/clever-boxes.php:100 src/shortcodes/clever-boxes.php:118
+#: src/shortcodes/clever-boxes.php:136 src/shortcodes/clever-boxes.php:154
+#: src/shortcodes/clever-product.php:378 src/shortcodes/clever-service.php:91
+#: src/shortcodes/clever-team-member.php:126
+#: src/shortcodes/clever-testimonial.php:148
+msgid "1"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:107 src/shortcodes/clever-boxes.php:83
+#: src/shortcodes/clever-boxes.php:101 src/shortcodes/clever-boxes.php:119
+#: src/shortcodes/clever-boxes.php:137 src/shortcodes/clever-boxes.php:155
+#: src/shortcodes/clever-product.php:379 src/shortcodes/clever-service.php:92
+#: src/shortcodes/clever-team-member.php:127
+#: src/shortcodes/clever-testimonial.php:149
+msgid "2"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:108 src/shortcodes/clever-boxes.php:84
+#: src/shortcodes/clever-boxes.php:102 src/shortcodes/clever-boxes.php:120
+#: src/shortcodes/clever-boxes.php:138 src/shortcodes/clever-boxes.php:156
+#: src/shortcodes/clever-product.php:380 src/shortcodes/clever-service.php:93
+#: src/shortcodes/clever-team-member.php:128
+#: src/shortcodes/clever-testimonial.php:150
+msgid "3"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:109 src/shortcodes/clever-boxes.php:85
+#: src/shortcodes/clever-boxes.php:103 src/shortcodes/clever-boxes.php:121
+#: src/shortcodes/clever-boxes.php:139 src/shortcodes/clever-boxes.php:157
+#: src/shortcodes/clever-product.php:381 src/shortcodes/clever-service.php:94
+#: src/shortcodes/clever-team-member.php:129
+#: src/shortcodes/clever-testimonial.php:151
+msgid "4"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:110 src/shortcodes/clever-boxes.php:87
+#: src/shortcodes/clever-boxes.php:105 src/shortcodes/clever-boxes.php:123
+#: src/shortcodes/clever-boxes.php:141 src/shortcodes/clever-boxes.php:159
+#: src/shortcodes/clever-product.php:383 src/shortcodes/clever-service.php:95
+#: src/shortcodes/clever-team-member.php:130
+#: src/shortcodes/clever-testimonial.php:152
+msgid "6"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:114 src/shortcodes/clever-service.php:97
+msgid "Display post with the number of column"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:118
+msgid "Category IDs"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:121
+msgid "Select category which you want to get post in"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:125
+msgid "Get posts in children of categories"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:129 src/shortcodes/clever-maps.php:99
+#: src/shortcodes/clever-posts-box.php:383
+#: src/shortcodes/clever-posts-box.php:403
+#: src/shortcodes/clever-product.php:275 src/shortcodes/clever-product.php:365
+#: src/shortcodes/clever-product.php:394 src/shortcodes/clever-product.php:424
+#: src/shortcodes/clever-testimonial.php:162
+#: src/shortcodes/clever-testimonial.php:174
+msgid "No"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:132
+msgid "Yes, If you want to get post in all children categories"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:136 src/shortcodes/clever-service.php:101
+msgid "Post IDs"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:137 src/shortcodes/clever-product-ids.php:70
+#: src/shortcodes/clever-service.php:102
+msgid "comma separated list of post ids"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:152 src/shortcodes/clever-instagram.php:104
+#: src/shortcodes/clever-service.php:132
+#: src/shortcodes/clever-team-member.php:137
+msgid "Image size"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:159 src/shortcodes/clever-service.php:107
+msgid "Posts Count"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:162 src/shortcodes/clever-service.php:110
+msgid "Number of post showing"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:166 src/shortcodes/clever-posts-box.php:247
+#: src/shortcodes/clever-posts-box.php:260
+#: src/shortcodes/clever-posts-box.php:271
+#: src/shortcodes/clever-posts-box.php:282
+#: src/shortcodes/clever-posts-box.php:294
+#: src/shortcodes/clever-posts-box.php:318
+#: src/shortcodes/clever-posts-box.php:324
+#: src/shortcodes/clever-posts-box.php:335
+#: src/shortcodes/clever-service.php:138
+msgid "Pagination"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:170 src/shortcodes/clever-demo-box.php:71
+#: src/shortcodes/clever-service.php:142
+msgid "Standard"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:173 src/shortcodes/clever-service.php:146
+msgid "Select pagination type"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:177 src/shortcodes/clever-service.php:150
+#: src/shortcodes/clever-team-member.php:94
+#: src/shortcodes/clever-testimonial.php:92
+msgid "Content display"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:183 src/shortcodes/clever-service.php:155
+#: src/shortcodes/clever-testimonial.php:96
+msgid "Excerpt"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:184 src/shortcodes/clever-service.php:156
+#: src/shortcodes/clever-team-member.php:100
+#: src/shortcodes/clever-testimonial.php:97
+msgid "Full content"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:186 src/shortcodes/clever-service.php:158
+#: src/shortcodes/clever-team-member.php:103
+#: src/shortcodes/clever-testimonial.php:99
+msgid "Select type of content"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:190 src/shortcodes/clever-posts-box.php:388
+msgid "Excerpt length"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:194 src/shortcodes/clever-service.php:165
+#: src/shortcodes/clever-testimonial.php:106
+msgid "Total character display of excerpt."
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:199
+msgid "Show Post information"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:204
+msgid "Show category and date post"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:208 src/shortcodes/clever-service.php:170
+msgid "Show View More"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:213 src/shortcodes/clever-service.php:173
+msgid "Yes, If you want to show button \"Read more\""
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:217
+msgid "Animation Type"
+msgstr ""
+
+#: src/shortcodes/clever-blog.php:221
+msgid "Select animation type"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:65
+msgid "Clever Boxes"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:69 src/shortcodes/clever-feature-box.php:68
+msgid "Display feature box with image icon or icon font."
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:80
+msgid "Desktop Columns (>=1200px)"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:86 src/shortcodes/clever-boxes.php:104
+#: src/shortcodes/clever-boxes.php:122 src/shortcodes/clever-boxes.php:140
+#: src/shortcodes/clever-boxes.php:158 src/shortcodes/clever-product.php:382
+msgid "5"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:88 src/shortcodes/clever-boxes.php:106
+#: src/shortcodes/clever-boxes.php:124 src/shortcodes/clever-boxes.php:142
+#: src/shortcodes/clever-boxes.php:160
+msgid "7"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:89 src/shortcodes/clever-boxes.php:107
+#: src/shortcodes/clever-boxes.php:125 src/shortcodes/clever-boxes.php:143
+#: src/shortcodes/clever-boxes.php:161
+msgid "8"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:90 src/shortcodes/clever-boxes.php:108
+#: src/shortcodes/clever-boxes.php:126 src/shortcodes/clever-boxes.php:144
+#: src/shortcodes/clever-boxes.php:162
+msgid "9"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:91 src/shortcodes/clever-boxes.php:109
+#: src/shortcodes/clever-boxes.php:127 src/shortcodes/clever-boxes.php:145
+#: src/shortcodes/clever-boxes.php:163
+msgid "10"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:98
+msgid "Desktop Small Columns (>=992px and < 1200px)"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:116
+msgid "Tablet Columns (>=768px and < 992px)"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:134
+msgid "Tablet Small Columns (>=480px and < 768px)"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:152
+msgid "Mobile Columns (< 480px)"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:170
+msgid "Box min height(px)"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:173
+msgid "Only type value is a number"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:177
+msgid "Boxes"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:183 src/shortcodes/clever-demo-box.php:59
+#: src/shortcodes/clever-feature-box.php:72
+msgid "Type"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:185 src/shortcodes/clever-contact.php:79
+#: src/shortcodes/clever-feature-box.php:75
+#: src/shortcodes/clever-feature-box.php:112
+#: src/shortcodes/clever-feature-box.php:131
+#: src/shortcodes/clever-feature-box.php:151
+#: src/shortcodes/clever-feature-box.php:170
+#: src/shortcodes/clever-feature-box.php:188
+#: src/shortcodes/clever-feature-box.php:207
+#: src/shortcodes/clever-feature-box.php:226
+#: src/shortcodes/clever-feature-box.php:246
+#: src/shortcodes/clever-feature-box.php:266
+#: src/shortcodes/clever-one-page-box.php:119
+#: src/shortcodes/clever-one-page-box.php:138
+#: src/shortcodes/clever-one-page-box.php:158
+#: src/shortcodes/clever-one-page-box.php:177
+#: src/shortcodes/clever-one-page-box.php:195
+#: src/shortcodes/clever-one-page-box.php:214
+#: src/shortcodes/clever-one-page-box.php:233
+#: src/shortcodes/clever-one-page-box.php:253
+#: src/shortcodes/clever-one-page-box.php:273
+msgid "Icon"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:196 src/shortcodes/clever-demo-box.php:83
+#: src/shortcodes/clever-feature-box.php:86
+msgid "Image demo of box"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:201 src/shortcodes/clever-demo-box.php:96
+msgid "Icon Class"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:204 src/shortcodes/clever-demo-box.php:99
+#: src/shortcodes/clever-one-page-box-control.php:62
+msgid "Class of icon font icon (Awesome font, or CleverSoft font) you want use"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:209
+#: src/shortcodes/clever-feature-box.php:286
+msgid "Icon Font Size"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:212
+#: src/shortcodes/clever-feature-box.php:289
+msgid "Font size for icon"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:217
+#: src/shortcodes/clever-feature-box.php:294
+msgid "Icon/Image Position"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:219
+#: src/shortcodes/clever-feature-box.php:296
+msgid "Before Title"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:220
+#: src/shortcodes/clever-feature-box.php:297
+msgid "After Title"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:221
+#: src/shortcodes/clever-feature-box.php:298
+msgid "Left Title"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:222
+#: src/shortcodes/clever-feature-box.php:299
+msgid "Right Title"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:223
+#: src/shortcodes/clever-feature-box.php:300
+msgid "Left Box"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:224
+#: src/shortcodes/clever-feature-box.php:301
+msgid "Right Box"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:231
+#: src/shortcodes/clever-feature-box.php:309
+msgid "Text align"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:233
+#: src/shortcodes/clever-feature-box.php:311
+msgid "Left"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:234
+#: src/shortcodes/clever-feature-box.php:312
+msgid "Right"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:235
+#: src/shortcodes/clever-feature-box.php:313
+msgid "Center"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:242
+#: src/shortcodes/clever-feature-box.php:320
+msgid "Icon color"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:248
+#: src/shortcodes/clever-feature-box.php:327
+msgid "Icon background color"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:254
+#: src/shortcodes/clever-feature-box.php:334
+msgid "Box Background Type"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:258
+#: src/shortcodes/clever-feature-box.php:338
+msgid "Color"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:265
+msgid "Box Color"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:279
+#: src/shortcodes/clever-feature-box.php:352
+msgid "Box Background Image"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:282
+#: src/shortcodes/clever-feature-box.php:355
+msgid "Background image of box"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:287
+#: src/shortcodes/clever-feature-box.php:360
+msgid "Background Size"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:289
+#: src/shortcodes/clever-feature-box.php:362
+msgid "Auto"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:290
+#: src/shortcodes/clever-feature-box.php:363
+msgid "Cover"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:291
+#: src/shortcodes/clever-feature-box.php:364
+msgid "Contain"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:292
+#: src/shortcodes/clever-feature-box.php:365
+msgid "Initial"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:300
+#: src/shortcodes/clever-feature-box.php:373
+msgid "Background Repeat"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:302
+#: src/shortcodes/clever-feature-box.php:375
+msgid "No Repeat"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:303
+#: src/shortcodes/clever-feature-box.php:376
+msgid "Repeat"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:304
+#: src/shortcodes/clever-feature-box.php:377
+msgid "Repeat X"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:305
+#: src/shortcodes/clever-feature-box.php:378
+msgid "Repeat Y"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:313
+#: src/shortcodes/clever-feature-box.php:386
+msgid "Background Position"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:315
+#: src/shortcodes/clever-feature-box.php:388
+msgid "Left Top"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:316
+#: src/shortcodes/clever-feature-box.php:389
+msgid "Left Center"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:317
+#: src/shortcodes/clever-feature-box.php:390
+msgid "Left Bottom"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:318
+#: src/shortcodes/clever-feature-box.php:391
+msgid "Right Top"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:319
+#: src/shortcodes/clever-feature-box.php:392
+msgid "Right Center"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:320
+#: src/shortcodes/clever-feature-box.php:393
+msgid "Right Bottom"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:321
+#: src/shortcodes/clever-feature-box.php:394
+msgid "Center Top"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:322
+#: src/shortcodes/clever-feature-box.php:395
+msgid "Center Bottom"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:331
+#: src/shortcodes/clever-feature-box.php:404
+msgid "Background Attachment"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:333
+#: src/shortcodes/clever-feature-box.php:406
+msgid "Scroll"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:334
+#: src/shortcodes/clever-feature-box.php:407
+msgid "Fixed"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:349 src/shortcodes/clever-demo-box.php:111
+#: src/shortcodes/clever-timeline.php:75
+msgid "Description"
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:352
+msgid "Enter your description."
+msgstr ""
+
+#: src/shortcodes/clever-boxes.php:364
+msgid "Style particular content boxes element differently."
+msgstr ""
+
+#: src/shortcodes/clever-contact.php:41
+msgid "Clever Contact"
+msgstr ""
+
+#: src/shortcodes/clever-contact.php:45
+msgid "Display your contact with icon"
+msgstr ""
+
+#: src/shortcodes/clever-contact.php:57
+msgid "Image of contact"
+msgstr ""
+
+#: src/shortcodes/clever-contact.php:61 src/shortcodes/clever-demo-box.php:69
+#: src/shortcodes/clever-follow-me.php:76 src/shortcodes/clever-maps.php:111
+#: src/shortcodes/clever-service.php:74
+#: src/shortcodes/clever-team-member.php:115
+#: src/shortcodes/clever-team-member.php:122
+#: src/shortcodes/clever-team-member.php:139
+#: src/shortcodes/clever-team-member.php:146
+#: src/shortcodes/clever-team-member.php:154
+#: src/shortcodes/clever-team-member.php:161
+#: src/shortcodes/clever-testimonial.php:118
+#: src/shortcodes/clever-testimonial.php:130
+#: src/shortcodes/clever-testimonial.php:138
+#: src/shortcodes/clever-testimonial.php:145
+#: src/shortcodes/clever-testimonial.php:165
+#: src/shortcodes/clever-testimonial.php:177
+#: src/shortcodes/clever-testimonial.php:185
+msgid "Style"
+msgstr ""
+
+#: src/shortcodes/clever-contact.php:65 src/shortcodes/clever-service.php:80
+#: src/shortcodes/clever-testimonial.php:127
+msgid "Style 1"
+msgstr ""
+
+#: src/shortcodes/clever-contact.php:66 src/shortcodes/clever-service.php:81
+msgid "Style 2"
+msgstr ""
+
+#: src/shortcodes/clever-contact.php:71
+msgid "Contact info"
+msgstr ""
+
+#: src/shortcodes/clever-contact.php:81
+msgid "Put class font icon you use."
+msgstr ""
+
+#: src/shortcodes/clever-countdown.php:40
+msgid "Clever CountDown"
+msgstr ""
+
+#: src/shortcodes/clever-countdown.php:47
+#: src/shortcodes/clever-instagram.php:149
+#: src/shortcodes/clever-posts-box.php:195
+#: src/shortcodes/clever-product.php:253
+#: src/shortcodes/clever-sensei-courses.php:104
+#: src/shortcodes/clever-timeline.php:63
+msgid "Date"
+msgstr ""
+
+#: src/shortcodes/clever-countdown.php:50
+msgid "Enter only number. Date End countdown"
+msgstr ""
+
+#: src/shortcodes/clever-countdown.php:54
+msgid "Hour"
+msgstr ""
+
+#: src/shortcodes/clever-countdown.php:58
+msgid "Hour End countdown"
+msgstr ""
+
+#: src/shortcodes/clever-countdown.php:62
+msgid "Minutes"
+msgstr ""
+
+#: src/shortcodes/clever-countdown.php:66
+msgid "Minutes End countdown"
+msgstr ""
+
+#: src/shortcodes/clever-countdown.php:70
+msgid "Second"
+msgstr ""
+
+#: src/shortcodes/clever-countdown.php:74
+msgid "Second End countdown"
+msgstr ""
+
+#: src/shortcodes/clever-countup.php:44
+msgid "Clever CountUp"
+msgstr ""
+
+#: src/shortcodes/clever-countup.php:57
+msgid "Font size title"
+msgstr ""
+
+#: src/shortcodes/clever-countup.php:63
+msgid "Font size number"
+msgstr ""
+
+#: src/shortcodes/clever-countup.php:77
+msgid "Number color"
+msgstr ""
+
+#: src/shortcodes/clever-countup.php:85
+msgid "Star number"
+msgstr ""
+
+#: src/shortcodes/clever-countup.php:93
+msgid "End number"
+msgstr ""
+
+#: src/shortcodes/clever-countup.php:101
+msgid "Decimals"
+msgstr ""
+
+#: src/shortcodes/clever-countup.php:109
+msgid "Duration"
+msgstr ""
+
+#: src/shortcodes/clever-demo-box.php:51
+msgid "Clever Demo Box"
+msgstr ""
+
+#: src/shortcodes/clever-demo-box.php:55
+#: src/shortcodes/clever-parallax-box.php:48
+msgid "Box demo. Display feature of themes, with images or icons"
+msgstr ""
+
+#: src/shortcodes/clever-demo-box.php:72
+msgid "Inline"
+msgstr ""
+
+#: src/shortcodes/clever-demo-box.php:73
+msgid "Inline 2"
+msgstr ""
+
+#: src/shortcodes/clever-demo-box.php:88
+msgid "Custom icon"
+msgstr ""
+
+#: src/shortcodes/clever-demo-box.php:89
+msgid "Custom class of font icon"
+msgstr ""
+
+#: src/shortcodes/clever-demo-box.php:117
+msgid "Mask color"
+msgstr ""
+
+#: src/shortcodes/clever-demo-box.php:120
+msgid "Mask color background for image. Work only with style Standard"
+msgstr ""
+
+#: src/shortcodes/clever-demo-box.php:125
+#: src/shortcodes/clever-image-gallery.php:114
+msgid "Box shadow"
+msgstr ""
+
+#: src/shortcodes/clever-demo-box.php:129
+msgid "If check, box shadow will visible."
+msgstr ""
+
+#: src/shortcodes/clever-demo-box.php:133
+msgid "New label"
+msgstr ""
+
+#: src/shortcodes/clever-demo-box.php:136
+#: src/shortcodes/clever-demo-box.php:144
+#: src/shortcodes/clever-demo-box.php:152
+msgid "Work only with style Standard"
+msgstr ""
+
+#: src/shortcodes/clever-demo-box.php:141
+msgid "Hot label"
+msgstr ""
+
+#: src/shortcodes/clever-demo-box.php:149
+msgid "Coming soon label"
+msgstr ""
+
+#: src/shortcodes/clever-demo-box.php:163
+msgid "Animation Style"
+msgstr ""
+
+#: src/shortcodes/clever-events.php:48
+msgid "Clever Events"
+msgstr ""
+
+#: src/shortcodes/clever-events.php:52
+msgid "Display your banner image"
+msgstr ""
+
+#: src/shortcodes/clever-events.php:62
+msgid "Items show"
+msgstr ""
+
+#: src/shortcodes/clever-events.php:69
+msgid "Show date"
+msgstr ""
+
+#: src/shortcodes/clever-events.php:73
+msgid "Start date"
+msgstr ""
+
+#: src/shortcodes/clever-events.php:74
+msgid "End date"
+msgstr ""
+
+#: src/shortcodes/clever-events.php:76
+msgid "Show date is start or end date."
+msgstr ""
+
+#: src/shortcodes/clever-events.php:80
+#: src/shortcodes/clever-sensei-courses.php:126
+msgid "Show Image"
+msgstr ""
+
+#: src/shortcodes/clever-events.php:87
+msgid "Show Time"
+msgstr ""
+
+#: src/shortcodes/clever-events.php:94
+#: src/shortcodes/clever-sensei-courses.php:140
+msgid "Show Category"
+msgstr ""
+
+#: src/shortcodes/clever-events.php:101
+#: src/shortcodes/clever-sensei-courses.php:112
+msgid "Show Course Description"
+msgstr ""
+
+#: src/shortcodes/clever-events.php:108
+#: src/shortcodes/clever-sensei-courses.php:119
+msgid "Course Description Length"
+msgstr ""
+
+#: src/shortcodes/clever-events.php:115
+msgid "Show View All Link"
+msgstr ""
+
+#: src/shortcodes/clever-feature-box.php:64
+msgid "Clever Feature Box"
+msgstr ""
+
+#: src/shortcodes/clever-feature-box.php:92
+#: src/shortcodes/clever-one-page-box.php:99
+msgid "Icon library"
+msgstr ""
+
+#: src/shortcodes/clever-feature-box.php:94
+#: src/shortcodes/clever-one-page-box.php:101
+msgid "Font Awesome"
+msgstr ""
+
+#: src/shortcodes/clever-feature-box.php:95
+#: src/shortcodes/clever-one-page-box.php:102
+msgid "Open Iconic"
+msgstr ""
+
+#: src/shortcodes/clever-feature-box.php:96
+#: src/shortcodes/clever-one-page-box.php:103
+msgid "Typicons"
+msgstr ""
+
+#: src/shortcodes/clever-feature-box.php:97
+#: src/shortcodes/clever-one-page-box.php:104
+msgid "Entypo"
+msgstr ""
+
+#: src/shortcodes/clever-feature-box.php:98
+#: src/shortcodes/clever-one-page-box.php:105
+msgid "Linecons"
+msgstr ""
+
+#: src/shortcodes/clever-feature-box.php:99
+#: src/shortcodes/clever-one-page-box.php:106
+msgid "Mono Social"
+msgstr ""
+
+#: src/shortcodes/clever-feature-box.php:100
+#: src/shortcodes/clever-one-page-box.php:107
+msgid "Material"
+msgstr ""
+
+#: src/shortcodes/clever-feature-box.php:101
+#: src/shortcodes/clever-one-page-box.php:108
+msgid "Cleverfont"
+msgstr ""
+
+#: src/shortcodes/clever-feature-box.php:102
+#: src/shortcodes/clever-one-page-box.php:109
+msgid "Stroke gap"
+msgstr ""
+
+#: src/shortcodes/clever-feature-box.php:106
+#: src/shortcodes/clever-one-page-box.php:114
+msgid "Select icon library."
+msgstr ""
+
+#: src/shortcodes/clever-feature-box.php:126
+#: src/shortcodes/clever-feature-box.php:146
+#: src/shortcodes/clever-feature-box.php:166
+#: src/shortcodes/clever-feature-box.php:203
+#: src/shortcodes/clever-feature-box.php:222
+#: src/shortcodes/clever-feature-box.php:241
+#: src/shortcodes/clever-feature-box.php:261
+#: src/shortcodes/clever-feature-box.php:281
+#: src/shortcodes/clever-one-page-box.php:133
+#: src/shortcodes/clever-one-page-box.php:153
+#: src/shortcodes/clever-one-page-box.php:173
+#: src/shortcodes/clever-one-page-box.php:210
+#: src/shortcodes/clever-one-page-box.php:229
+#: src/shortcodes/clever-one-page-box.php:248
+#: src/shortcodes/clever-one-page-box.php:268
+#: src/shortcodes/clever-one-page-box.php:288
+msgid "Select icon from library."
+msgstr ""
+
+#: src/shortcodes/clever-follow-me.php:37
+msgid "Clever Follow Me"
+msgstr ""
+
+#: src/shortcodes/clever-follow-me.php:41
+msgid "Social Follow Me Block"
+msgstr ""
+
+#: src/shortcodes/clever-follow-me.php:52 src/shortcodes/clever-links.php:51
+msgid "Follow Me block"
+msgstr ""
+
+#: src/shortcodes/clever-follow-me.php:55 src/shortcodes/clever-links.php:54
+msgid "Icons and links block, click to starting add"
+msgstr ""
+
+#: src/shortcodes/clever-follow-me.php:61 src/shortcodes/clever-links.php:60
+msgid "Socail icon"
+msgstr ""
+
+#: src/shortcodes/clever-follow-me.php:81
+msgid "Circle"
+msgstr ""
+
+#: src/shortcodes/clever-follow-me.php:82
+msgid "Square"
+msgstr ""
+
+#: src/shortcodes/clever-heading.php:47
+msgid "Clever Heading"
+msgstr ""
+
+#: src/shortcodes/clever-heading.php:51
+msgid "Custom heading with multi options."
+msgstr ""
+
+#: src/shortcodes/clever-heading.php:70
+msgid "Select text alignment."
+msgstr ""
+
+#: src/shortcodes/clever-heading.php:71
+msgid "Enter font size."
+msgstr ""
+
+#: src/shortcodes/clever-heading.php:72
+msgid "Enter line height."
+msgstr ""
+
+#: src/shortcodes/clever-heading.php:73
+msgid "Select color for your element."
+msgstr ""
+
+#: src/shortcodes/clever-heading.php:79
+msgid "Letter Spacing"
+msgstr ""
+
+#: src/shortcodes/clever-heading.php:85
+msgid "Text underline?"
+msgstr ""
+
+#: src/shortcodes/clever-heading.php:88
+msgid "Add border bottom for text."
+msgstr ""
+
+#: src/shortcodes/clever-heading.php:92
+msgid "Underline width"
+msgstr ""
+
+#: src/shortcodes/clever-heading.php:93
+msgid "Leave it blank if want set width auto."
+msgstr ""
+
+#: src/shortcodes/clever-heading.php:100
+msgid "Underline height"
+msgstr ""
+
+#: src/shortcodes/clever-heading.php:106
+msgid "Underline color"
+msgstr ""
+
+#: src/shortcodes/clever-heading.php:113
+msgid "Yes theme default font family?"
+msgstr ""
+
+#: src/shortcodes/clever-heading.php:116
+msgid "Yes font family from the theme."
+msgstr ""
+
+#: src/shortcodes/clever-heading.php:124
+msgid "Select font family."
+msgstr ""
+
+#: src/shortcodes/clever-heading.php:125
+msgid "Select font styling."
+msgstr ""
+
+#: src/shortcodes/clever-image-gallery.php:44
+msgid "Clever Image Gallery"
+msgstr ""
+
+#: src/shortcodes/clever-image-gallery.php:48
+msgid "Show Image Gallery"
+msgstr ""
+
+#: src/shortcodes/clever-image-gallery.php:72
+#: src/shortcodes/clever-multi-banner.php:67
+msgid "Horizontal"
+msgstr ""
+
+#: src/shortcodes/clever-image-gallery.php:73
+msgid "Vertical"
+msgstr ""
+
+#: src/shortcodes/clever-image-gallery.php:78
+msgid "Images"
+msgstr ""
+
+#: src/shortcodes/clever-image-gallery.php:116
+msgid "Shadow for gallery item"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:55
+msgid "Clever Instagram"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:59
+msgid "Display your instagram."
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:69
+msgid "Username"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:75
+msgid "Photos count"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:78
+msgid "Number of photos showing"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:85
+msgid "Display photos with the number of column"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:89
+msgid "Center Mode"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:96
+msgid "Center Padding"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:100
+msgid "Padding of items in carousel"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:108
+msgid "Thumbnail"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:109
+msgid "Small"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:110
+msgid "Large"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:111
+msgid "Original"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:116
+msgid "Show likes count"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:123
+msgid "Show comments count"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:130
+msgid "Show icons type( image/video )"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:137
+msgid "Show time"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:144
+msgid "Time layout"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:148
+msgid "Time elapsed"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:155
+msgid "Date format"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:157
+msgid ""
+"Ex: F j, Y .Note: Default is date format in WordPress settings if this value "
+"is blank."
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:162
+#: src/shortcodes/clever-product-ids.php:116
+#: src/shortcodes/clever-product.php:299
+msgid "Show carousel pagination"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:169
+#: src/shortcodes/clever-product-ids.php:125
+#: src/shortcodes/clever-product.php:308
+msgid "Show carousel navigation"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:176
+msgid "Target links"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:180
+msgid "Current window (_self)"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:181
+msgid "New window (_blank)"
+msgstr ""
+
+#: src/shortcodes/clever-instagram.php:186
+msgid "Link text"
+msgstr ""
+
+#: src/shortcodes/clever-links.php:36
+msgid "Clever Links"
+msgstr ""
+
+#: src/shortcodes/clever-maps.php:46
+msgid "Clever Maps"
+msgstr ""
+
+#: src/shortcodes/clever-maps.php:50
+msgid "Display maps items"
+msgstr ""
+
+#: src/shortcodes/clever-maps.php:54
+msgid "Google map key"
+msgstr ""
+
+#: src/shortcodes/clever-maps.php:56
+msgid ""
+"To get google map key. Go to: https://developers.google."
+"com/maps/documentation/javascript/get-api-key"
+msgstr ""
+
+#: src/shortcodes/clever-maps.php:67
+msgid "Latitude"
+msgstr ""
+
+#: src/shortcodes/clever-maps.php:70 src/shortcodes/clever-maps.php:77
+msgid "Visit "
+msgstr ""
+
+#: src/shortcodes/clever-maps.php:74
+msgid "Longitude"
+msgstr ""
+
+#: src/shortcodes/clever-maps.php:81
+msgid "Zoom"
+msgstr ""
+
+#: src/shortcodes/clever-maps.php:88
+msgid "Icon Marker"
+msgstr ""
+
+#: src/shortcodes/clever-maps.php:95
+msgid "Scroll Wheel"
+msgstr ""
+
+#: src/shortcodes/clever-maps.php:105
+msgid "Height (px)"
+msgstr ""
+
+#: src/shortcodes/clever-maps.php:107
+msgid "Height of mapper."
+msgstr ""
+
+#: src/shortcodes/clever-maps.php:115
+#: src/shortcodes/clever-sensei-courses.php:192
+#: src/shortcodes/clever-testimonial.php:126
+msgid "Default"
+msgstr ""
+
+#: src/shortcodes/clever-maps.php:116
+msgid "Ultra Light with Labels"
+msgstr ""
+
+#: src/shortcodes/clever-maps.php:117
+msgid "Shades of Grey"
+msgstr ""
+
+#: src/shortcodes/clever-maps.php:118
+msgid "Apple Maps-esque"
+msgstr ""
+
+#: src/shortcodes/clever-maps.php:119
+msgid "Pale Dawn"
+msgstr ""
+
+#: src/shortcodes/clever-maps.php:120
+msgid "Yellow water"
+msgstr ""
+
+#: src/shortcodes/clever-masonry-block.php:39
+msgid "Clever Masonry Group"
+msgstr ""
+
+#: src/shortcodes/clever-masonry-block.php:45
+msgid "Masonry Group display content inside with masonry layout"
+msgstr ""
+
+#: src/shortcodes/clever-masonry-block.php:50
+msgid "Horizontal Order"
+msgstr ""
+
+#: src/shortcodes/clever-masonry-block.php:56
+#: src/shortcodes/clever-multi-banner.php:49
+msgid "Gutter"
+msgstr ""
+
+#: src/shortcodes/clever-multi-banner.php:41
+msgid "Clever Multi Banner"
+msgstr ""
+
+#: src/shortcodes/clever-multi-banner.php:45
+msgid "Display your list banner image with multi layout"
+msgstr ""
+
+#: src/shortcodes/clever-multi-banner.php:52
+msgid "White space between each banner item"
+msgstr ""
+
+#: src/shortcodes/clever-multi-banner.php:62
+msgid "Masonry"
+msgstr ""
+
+#: src/shortcodes/clever-multi-banner.php:63
+msgid "Fit Rows"
+msgstr ""
+
+#: src/shortcodes/clever-multi-banner.php:64
+msgid "vertical"
+msgstr ""
+
+#: src/shortcodes/clever-multi-banner.php:65
+msgid "Packery"
+msgstr ""
+
+#: src/shortcodes/clever-multi-banner.php:66
+msgid "Fit Columns"
+msgstr ""
+
+#: src/shortcodes/clever-multi-banner.php:74
+msgid "Click arrow to show field content"
+msgstr ""
+
+#: src/shortcodes/clever-multi-banner.php:92
+msgid ""
+"Number columns banner item will take. Value from 0 to 12, if set 0, column "
+"will resize follow image size."
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box-control.php:44
+msgid "Clever One Page Box Control"
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box-control.php:48
+msgid "Controller of One Page Box shortcode. Work only with One Page Box"
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box-control.php:55
+msgid "Heading of block."
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box-control.php:59
+msgid "Icon Heading"
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box-control.php:66
+msgid "Title color"
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box-control.php:72
+msgid "Background Title"
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box-control.php:74
+msgid "Background for Heading."
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box-control.php:78
+msgid "Item color"
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box-control.php:80
+msgid "Color of menu item."
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box.php:54
+msgid "Clever One Page Box"
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box.php:60
+msgid ""
+"Using for building one page layout. Allow user access block by static menu."
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box.php:67
+#: src/shortcodes/clever-parallax-box.php:69
+msgid "Title display at navigation."
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box.php:71
+msgid "Full Height"
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box.php:73
+msgid "If check block will full height, content will align middle."
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box.php:78
+msgid "Jump when scroll"
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box.php:84
+msgid "Show title"
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box.php:86
+msgid "If check title of block will show like heading of block."
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box.php:91
+msgid "Show Icon"
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box.php:93
+msgid "If check icon of block will show like heading of block."
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box.php:292
+msgid "Preset color"
+msgstr ""
+
+#: src/shortcodes/clever-one-page-box.php:295
+msgid ""
+"This color will use is background of static navigation entry, and background "
+"of title block"
+msgstr ""
+
+#: src/shortcodes/clever-parallax-box.php:42
+msgid "Clever Parallax Box"
+msgstr ""
+
+#: src/shortcodes/clever-parallax-box.php:52
+msgid "Add to Parallax navigation"
+msgstr ""
+
+#: src/shortcodes/clever-parallax-box.php:59
+msgid "Keep content in container"
+msgstr ""
+
+#: src/shortcodes/clever-parallax-box.php:73
+msgid "Image Background"
+msgstr ""
+
+#: src/shortcodes/clever-parallax-box.php:79
+#: src/shortcodes/clever-posts-box.php:227
+msgid "Offset"
+msgstr ""
+
+#: src/shortcodes/clever-parallax-box.php:82
+msgid "Accept only negative value"
+msgstr ""
+
+#: src/shortcodes/clever-parallax-box.php:90
+#: src/shortcodes/clever-testimonial.php:114
+msgid "Normal"
+msgstr ""
+
+#: src/shortcodes/clever-parallax-box.php:91
+msgid "On Screen"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:30
+#: src/shortcodes/clever-posts-box.php:270
+msgid "Loading..."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:31
+#: src/shortcodes/clever-posts-box.php:281
+msgid "No More to Load"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:76
+msgid "Custom posts"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:77
+#: src/shortcodes/clever-posts-box.php:145
+msgid "Custom query"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:92
+msgid "Clever Posts Box"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:96
+msgid "Display posts with pagination."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:100
+msgid "Box title"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:106
+msgid "Content type"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:110
+msgid "Select a content type which you wish to display."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:115
+msgid "Include posts"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:117
+msgid "Add specific posts to display."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:130
+msgid "Exclude posts"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:132
+msgid "Specify posts which will be excluded from displaying."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:147
+msgid ""
+"Build custom query according to <a href=\"http://codex.wordpress."
+"org/Function_Reference/query_posts\">WordPress Codex</a>."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:155
+msgid "Taxonomies"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:168
+msgid "Enter categories, tags or custom taxonomies."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:177
+#: src/shortcodes/clever-sensei-courses.php:91
+#: src/shortcodes/clever-team-member.php:75
+msgid "Order"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:180
+msgid "Descending"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:181
+msgid "Ascending"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:184
+msgid "Select sorting order."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:192
+#: src/shortcodes/clever-product.php:251
+msgid "Order by"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:196
+msgid "Order by post ID"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:197
+msgid "Author"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:199
+msgid "Last modified date"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:200
+msgid "Parent ID"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:201
+msgid "Number of comments"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:202
+#: src/shortcodes/clever-product.php:254
+msgid "Menu order"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:203
+msgid "Meta value"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:204
+msgid "Meta value number"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:205
+msgid "Random order"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:207
+msgid ""
+"Select order type. If \"Meta value\" or \"Meta value Number\" is chosen then "
+"meta key is required."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:216
+msgid "Meta key"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:218
+msgid "Input meta key for grid ordering."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:229
+msgid "Number of posts to displace or pass over."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:238
+msgid "Pagination Type"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:242
+msgid "Numeric"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:243
+msgid "Infinite Scroll"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:244
+msgid "Load More Button"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:246
+msgid "\"None\" will display all queried posts without pagination."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:253
+msgid "Select display style for grid."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:257
+msgid "Load more button default label"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:268
+msgid "Load more button label when loading posts"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:279
+msgid "Load more button label when no more posts to load"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:290
+msgid "Scroll offset"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:302
+msgid "Posts per Page"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:304
+msgid "Number of posts to show per page."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:314
+msgid "Images Loaded"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:317
+msgid ""
+"Whether to wait for post thumbnail to be loaded before display entire post "
+"or not."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:322
+msgid "Item CSS selector"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:325
+msgid "A CSS selector of each post. Used to add custom styles and animation."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:333
+msgid "Container CSS selector"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:336
+msgid ""
+"A CSS selector for the container where new rendered posts will be appended "
+"to."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:351
+#: src/shortcodes/clever-posts-box.php:374
+#: src/shortcodes/clever-posts-box.php:381
+#: src/shortcodes/clever-posts-box.php:390
+#: src/shortcodes/clever-posts-box.php:401
+#: src/shortcodes/clever-posts-box.php:410
+#: src/shortcodes/clever-posts-box.php:422
+#: src/shortcodes/clever-posts-box.php:433
+msgid "Design"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:352
+msgid "Layout of rendered posts."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:356
+msgid "Custom template"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:359
+msgid ""
+"Enter a custom template (relative to your theme folder, e.g. "
+"\"templates/masonry-posts-box.php\") used to rendered queried posts."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:375
+msgid "Display posts with a specific number of columns."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:379
+msgid "Show excerpt"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:384
+#: src/shortcodes/clever-posts-box.php:404
+msgid "Whether to show \"Read more\" button for each post or not."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:399
+msgid "Show \"Read More\" button"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:408
+msgid "Animation stype"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:412
+msgid "Select an animation type."
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:420
+msgid "Animation speed"
+msgstr ""
+
+#: src/shortcodes/clever-posts-box.php:431
+msgid "Extra class to add to each post"
+msgstr ""
+
+#: src/shortcodes/clever-product-ids.php:61
+msgid "Clever Products Ids"
+msgstr ""
+
+#: src/shortcodes/clever-product-ids.php:65
+msgid "Show products with specific ids."
+msgstr ""
+
+#: src/shortcodes/clever-product-ids.php:69
+msgid "Product IDs"
+msgstr ""
+
+#: src/shortcodes/clever-product-ids.php:87
+#: src/shortcodes/clever-product.php:216 src/shortcodes/clever-service.php:69
+#: src/shortcodes/clever-testimonial.php:115
+msgid "Carousel"
+msgstr ""
+
+#: src/shortcodes/clever-product-ids.php:94
+#: src/shortcodes/clever-product.php:222
+msgid "Select layout type for display product"
+msgstr ""
+
+#: src/shortcodes/clever-product-ids.php:99
+#: src/shortcodes/clever-product.php:282
+msgid "Column width"
+msgstr ""
+
+#: src/shortcodes/clever-product-ids.php:103
+#: src/shortcodes/clever-product.php:286
+msgid "Width of one column."
+msgstr ""
+
+#: src/shortcodes/clever-product-ids.php:108
+#: src/shortcodes/clever-product.php:291
+msgid "Columns number"
+msgstr ""
+
+#: src/shortcodes/clever-product-ids.php:112
+#: src/shortcodes/clever-product.php:295
+msgid "Display product with the number of columns, accept only number."
+msgstr ""
+
+#: src/shortcodes/clever-product-ids.php:134
+#: src/shortcodes/clever-product.php:326
+msgid "Show rating"
+msgstr ""
+
+#: src/shortcodes/clever-product-ids.php:142
+msgid "Show quick view"
+msgstr ""
+
+#: src/shortcodes/clever-product-ids.php:149
+#: src/shortcodes/clever-product.php:341
+msgid "Show stock status"
+msgstr ""
+
+#: src/shortcodes/clever-product-ids.php:157
+#: src/shortcodes/clever-product.php:349
+msgid "Custom Class"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:206
+msgid "Clever Products"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:210
+msgid "Show multiple products by ID or SKU."
+msgstr ""
+
+#: src/shortcodes/clever-product.php:226
+#: src/shortcodes/clever-sensei-courses.php:72
+msgid "Categories"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:233
+msgid "Asset type"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:235
+msgid "All"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:236
+msgid "Featured product"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:237
+msgid "Onsale product"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:238
+msgid "Deal product"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:239
+msgid "Best Selling"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:240
+msgid "Latest product"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:241
+msgid "Top rate product"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:242
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:243
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:247
+msgid "Select asset type of products"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:256
+#: src/shortcodes/clever-team-member.php:78
+#: src/shortcodes/clever-testimonial.php:77
+msgid "Random"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:263
+msgid "Number of product"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:267
+msgid "Number of product showing"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:271
+msgid "Ignore sticky posts"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:317
+msgid "Enable Load more"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:334
+msgid "Show quickview"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:357
+msgid "Show Filter"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:361
+msgid "Number columns product filter on row"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:371
+msgid "Filter columns"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:388
+msgid "Show Featured, Onsale, Best Selling, Latest product filter"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:400
+msgid "Tags showing in the filter"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:409
+msgid "Product attributes showing in the filter"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:418
+msgid "Show Price Filter"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:430
+msgid "Number of price levels"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:436
+msgid "Number of price levels showing in the filter"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:440
+msgid "Filter range"
+msgstr ""
+
+#: src/shortcodes/clever-product.php:446
+msgid ""
+"Range of price filter. Example range equal 100 => price filter are \"0$ to "
+"100$\", \"100$ to 200$\""
+msgstr ""
+
+#: src/shortcodes/clever-sensei-courses.php:58
+msgid "Clever Sensei Courses"
+msgstr ""
+
+#: src/shortcodes/clever-sensei-courses.php:62
+msgid "Sensei courses shortcode."
+msgstr ""
+
+#: src/shortcodes/clever-sensei-courses.php:73
+msgid "Comma separated list of course categories"
+msgstr ""
+
+#: src/shortcodes/clever-sensei-courses.php:79
+msgid "Number of columns"
+msgstr ""
+
+#: src/shortcodes/clever-sensei-courses.php:85
+msgid "Number of courses to display"
+msgstr ""
+
+#: src/shortcodes/clever-sensei-courses.php:94
+msgid "ASC"
+msgstr ""
+
+#: src/shortcodes/clever-sensei-courses.php:95
+msgid "DESC"
+msgstr ""
+
+#: src/shortcodes/clever-sensei-courses.php:97
+#: src/shortcodes/clever-sensei-courses.php:108
+msgid "The order in which the courses will be displayed."
+msgstr ""
+
+#: src/shortcodes/clever-sensei-courses.php:101
+msgid "Order By"
+msgstr ""
+
+#: src/shortcodes/clever-sensei-courses.php:106
+msgid "Menu Order"
+msgstr ""
+
+#: src/shortcodes/clever-sensei-courses.php:133
+msgid "Show Date"
+msgstr ""
+
+#: src/shortcodes/clever-sensei-courses.php:147
+msgid "Show Author"
+msgstr ""
+
+#: src/shortcodes/clever-sensei-courses.php:154
+msgid "Show Review"
+msgstr ""
+
+#: src/shortcodes/clever-sensei-courses.php:161
+msgid "Show Lesson"
+msgstr ""
+
+#: src/shortcodes/clever-sensei-courses.php:168
+msgid "Show Comment"
+msgstr ""
+
+#: src/shortcodes/clever-sensei-courses.php:175
+msgid "Show Price"
+msgstr ""
+
+#: src/shortcodes/clever-sensei-courses.php:182
+msgid "Show Quick View"
+msgstr ""
+
+#: src/shortcodes/clever-sensei-courses.php:189
+msgid "Choose Layout"
+msgstr ""
+
+#: src/shortcodes/clever-sensei-courses.php:194
+msgid "Layout 2"
+msgstr ""
+
+#: src/shortcodes/clever-service.php:48
+msgid "Clever Service"
+msgstr ""
+
+#: src/shortcodes/clever-service.php:71
+msgid "Layout for display Services"
+msgstr ""
+
+#: src/shortcodes/clever-service.php:83
+msgid "Style for display"
+msgstr ""
+
+#: src/shortcodes/clever-service.php:114
+msgid "Set Height"
+msgstr ""
+
+#: src/shortcodes/clever-service.php:119
+msgid ""
+"Yes, If you want fix height for carousel block. if not check height will "
+"follow image size."
+msgstr ""
+
+#: src/shortcodes/clever-service.php:123
+msgid "Carousel Height"
+msgstr ""
+
+#: src/shortcodes/clever-service.php:127
+msgid "Height for item of carousel"
+msgstr ""
+
+#: src/shortcodes/clever-service.php:162
+#: src/shortcodes/clever-testimonial.php:103
+msgid "Excerpt lenght"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:53
+msgid "Clever Team Member Lite"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:57
+msgid "Display single team member block"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:61
+msgid "Avatar"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:68
+msgid "Member Name"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:75
+msgid "Member Position"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:82
+msgid "Member Description"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:91
+msgid "Your facebook page/profile url"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:96
+msgid "Dribbble"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:98
+msgid "Your Dribbble username"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:105
+msgid "Your Twitter username (no @)."
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:110
+msgid "Messenger"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:112
+msgid "Your messenger."
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:117
+msgid "Google Plus"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:119
+msgid "Your Google+ page/profile URL"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:126
+msgid "Your Skype username"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:133
+msgid "Your Instagram username"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:138
+msgid "GitHub"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:140
+msgid "Your GitHub URL"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:145
+msgid "Flickr"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:147
+msgid "Your Flickr page url"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:154
+msgid "Your YouTube URL"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:161
+msgid "Your Vimeo username"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:166
+msgid "Tumblr"
+msgstr ""
+
+#: src/shortcodes/clever-team-member-lite.php:168
+msgid "Your Tumblr username"
+msgstr ""
+
+#: src/shortcodes/clever-team-member.php:27
+#: src/shortcodes/clever-team-member.php:163
+msgid "View Profile"
+msgstr ""
+
+#: src/shortcodes/clever-team-member.php:49
+msgid "Clever Team member"
+msgstr ""
+
+#: src/shortcodes/clever-team-member.php:55
+msgid "Display team member with multi options."
+msgstr ""
+
+#: src/shortcodes/clever-team-member.php:64
+#: src/shortcodes/clever-testimonial.php:64
+msgid "Heading text. Leave it empty if not needed."
+msgstr ""
+
+#: src/shortcodes/clever-team-member.php:68
+msgid "team members category"
+msgstr ""
+
+#: src/shortcodes/clever-team-member.php:71
+msgid "Choose the category for the team members."
+msgstr ""
+
+#: src/shortcodes/clever-team-member.php:79
+#: src/shortcodes/clever-testimonial.php:78
+msgid "Latest"
+msgstr ""
+
+#: src/shortcodes/clever-team-member.php:81
+msgid "Choose the order of the team members."
+msgstr ""
+
+#: src/shortcodes/clever-team-member.php:86
+#: src/shortcodes/clever-testimonial.php:85
+msgid "Number of items"
+msgstr ""
+
+#: src/shortcodes/clever-team-member.php:90
+msgid ""
+"The number of team members display. Leave blank to show ALL team members."
+msgstr ""
+
+#: src/shortcodes/clever-team-member.php:99
+msgid "Short description"
+msgstr ""
+
+#: src/shortcodes/clever-team-member.php:107
+msgid "team members Style"
+msgstr ""
+
+#: src/shortcodes/clever-team-member.php:116
+msgid "Choose layout display."
+msgstr ""
+
+#: src/shortcodes/clever-team-member.php:133
+msgid "Display team member with the number of columns"
+msgstr ""
+
+#: src/shortcodes/clever-team-member.php:143
+msgid "Show social profile"
+msgstr ""
+
+#: src/shortcodes/clever-team-member.php:147
+msgid "Show Social profile link of team member."
+msgstr ""
+
+#: src/shortcodes/clever-team-member.php:151
+msgid "Show view more"
+msgstr ""
+
+#: src/shortcodes/clever-team-member.php:155
+msgid "Show button view more or not."
+msgstr ""
+
+#: src/shortcodes/clever-team-member.php:159
+msgid "Text of button view more"
+msgstr ""
+
+#: src/shortcodes/clever-team-member.php:170
+#: src/shortcodes/clever-testimonial.php:192
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: src/shortcodes/clever-testimonial.php:51
+msgid "Clever Testimonial"
+msgstr ""
+
+#: src/shortcodes/clever-testimonial.php:68
+msgid "Testimonials category"
+msgstr ""
+
+#: src/shortcodes/clever-testimonial.php:70
+msgid "Choose the category for the testimonials."
+msgstr ""
+
+#: src/shortcodes/clever-testimonial.php:74
+msgid "Testimonials Order"
+msgstr ""
+
+#: src/shortcodes/clever-testimonial.php:80
+msgid "Choose the order of the testimonials."
+msgstr ""
+
+#: src/shortcodes/clever-testimonial.php:88
+msgid ""
+"The number of testimonials display. Leave blank to show ALL testimonials."
+msgstr ""
+
+#: src/shortcodes/clever-testimonial.php:111
+msgid "Testimonials Style"
+msgstr ""
+
+#: src/shortcodes/clever-testimonial.php:119
+msgid "Choose style display."
+msgstr ""
+
+#: src/shortcodes/clever-testimonial.php:123
+msgid "Preset Style"
+msgstr ""
+
+#: src/shortcodes/clever-testimonial.php:131
+msgid "Choose preset style display."
+msgstr ""
+
+#: src/shortcodes/clever-testimonial.php:135
+msgid "Hide avatar author"
+msgstr ""
+
+#: src/shortcodes/clever-testimonial.php:139
+msgid "Hide avatar author."
+msgstr ""
+
+#: src/shortcodes/clever-testimonial.php:154
+msgid "Display testimonial with the number of columns"
+msgstr ""
+
+#: src/shortcodes/clever-testimonial.php:158
+msgid "Enable Carousel navigation"
+msgstr ""
+
+#: src/shortcodes/clever-testimonial.php:170
+msgid "Enable Carousel pagination"
+msgstr ""
+
+#: src/shortcodes/clever-timeline.php:40
+msgid "Clever Timeline"
+msgstr ""
+
+#: src/shortcodes/clever-timeline.php:44
+msgid "Time line block"
+msgstr ""
+
+#: src/shortcodes/clever-timeline.php:57
+msgid "Click arrow to show text field"
+msgstr ""
+
+#: src/shortcodes/clever-timeline.php:69
+msgid "Title time line"
+msgstr ""
+
+#: src/shortcodes/clever-video.php:47
+msgid "Clever Video"
+msgstr ""
+
+#: src/shortcodes/clever-video.php:51
+msgid "Display banner items"
+msgstr ""
+
+#: src/shortcodes/clever-video.php:55
+msgid "Video Link"
+msgstr ""
+
+#: src/shortcodes/clever-video.php:76
+msgid "Video Thumbnail"
+msgstr ""
+
+#: src/shortcodes/clever-video.php:88
+msgid "Button color"
+msgstr ""
+
+#: src/shortcodes/clever-video.php:94
+msgid "Button background color"
+msgstr ""
+
+#: src/shortcodes/clever-video.php:100
+msgid "Video Popup width"
+msgstr ""
+
+#: src/shortcodes/clever-video.php:102
+msgid "Width of Video popup in desktop"
+msgstr ""
+
+#: src/shortcodes/clever-video.php:105
+msgid "Video Popup height"
+msgstr ""
+
+#: src/shortcodes/clever-video.php:107
+msgid "Height of Video popup in desktop"
+msgstr ""
+
+#: src/views/shortcodes/demo-box.php:82
+msgid "Hot"
+msgstr ""
+
+#: src/views/shortcodes/demo-box.php:85
+msgid "New"
+msgstr ""
+
+#: src/views/shortcodes/events.php:186
+#, php-format
+msgid "View All %s"
+msgstr ""
+
+#: src/views/shortcodes/events.php:193
+#, php-format
+msgid "There are no upcoming %s at this time."
+msgstr ""
+
+#: src/views/shortcodes/product.php:32
+msgid "No product found"
+msgstr ""
+
+#: src/views/shortcodes/product.php:78
+msgid "Load more"
+msgstr ""
+
+#: src/views/shortcodes/product.php:79
+msgid "No more Load"
+msgstr ""
+
+#: src/views/shortcodes/product.php:81
+msgid "Load more products"
+msgstr ""
+
+#: src/views/shortcodes/team-member.php:132
+#: src/views/shortcodes/post-layout/grid-layout.php:41
+#: src/views/shortcodes/post-layout/list-layout.php:21
+#: src/views/shortcodes/service-layouts/carousel-layout.php:35
+#: src/views/shortcodes/service-layouts/carousel-layout.php:44
+#: src/views/shortcodes/service-layouts/grid-layout.php:42
+msgid "bookmark"
+msgstr ""
+
+#: src/views/shortcodes/post-layout/grid-layout.php:56
+#: src/views/shortcodes/post-layout/list-layout.php:36
+#: src/views/shortcodes/service-layouts/carousel-layout.php:58
+#: src/views/shortcodes/service-layouts/grid-layout.php:55
+msgid "Read more"
+msgstr ""
+
+#: src/views/shortcodes/sensei/course-1.php:25
+#: src/views/shortcodes/sensei/course-2.php:40
+#: src/views/shortcodes/sensei/course.php:40
+msgid "Quick View"
+msgstr ""
+
+#: src/views/shortcodes/sensei/course-1.php:49
+#: src/views/shortcodes/sensei/course-2.php:82
+#: src/views/shortcodes/sensei/course.php:81
+msgid "Lessons"
+msgstr ""
+
+#: src/views/shortcodes/sensei/course-1.php:68
+#: src/views/shortcodes/sensei/course-2.php:54
+#: src/views/shortcodes/sensei/course.php:53
+#, php-format
+msgid "in %s"
+msgstr ""
+
+#: src/views/shortcodes/sensei/course-1.php:84
+#: src/views/shortcodes/sensei/course-2.php:70
+#: src/views/shortcodes/sensei/course.php:69
+msgid "Reviews"
+msgstr ""
+
+#: src/views/shortcodes/sensei/course-1.php:84
+#: src/views/shortcodes/sensei/course-2.php:70
+#: src/views/shortcodes/sensei/course.php:69
+msgid "Review"
+msgstr ""
+
+#: src/views/shortcodes/woocommerce/product-filter.php:91
+msgid "Sort by"
+msgstr ""
+
+#: src/views/shortcodes/woocommerce/product-filter.php:114
+msgid "Price"
+msgstr ""
+
+#: src/views/shortcodes/woocommerce/product-filter.php:153
+msgid "Tags"
+msgstr ""
+
+#. Name of the plugin
+msgid "Clever Visual Composer Addon"
+msgstr ""
+
+#. Description of the plugin
+msgid "An untimate addon for Visual Composer and Zoo Theme Core."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.zootemplate.com/wordpress-plugins/clevervcaddon"
+msgstr ""
+
+#. Author of the plugin
+msgid "Zootemplate"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://zootemplate.com/"
+msgstr ""
