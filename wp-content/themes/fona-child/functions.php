@@ -244,7 +244,9 @@
 		* @param array $query - Args for WP_Query.
 		* @param array $query_vars - Query vars from WC_Product_Query.
 		* @return array modified $query
-		*/
+
+		*/ 
+		/* Test Comment */
 	   function handle_custom_query_var( $query, $query_vars ) {
 		   if ( ! empty( $query_vars['same_product_title'] ) ) {
 			   $query['meta_query'][] = array(
