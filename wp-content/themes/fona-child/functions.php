@@ -1,7 +1,7 @@
 <?php
 	/**
 	 * Theme functions and definitions
-	 *
+	 * test comment
 	 * @link https://developer.wordpress.org/themes/basics/theme-functions/
 	 */
 
