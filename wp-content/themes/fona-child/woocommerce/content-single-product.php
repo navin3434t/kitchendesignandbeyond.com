@@ -65,14 +65,14 @@ if ($zoo_single_layout == 'images-center') {
 		</div>
 		
 
-<?php var_dump($product);?>
+<?php //var_dump($product);?>
 		<div id="gallery" class="product_gallery">
 	<div class="container">
 	<h2>Gallery</h2>
 	<div class="row">
 	<?php 
-	$aaaa = $product->get_meta( 'same_product_title' );
-	$att_ID = $product->get_image_id();
+	echo $aaaa = $product->get_meta( 'same_product_title' );
+	echo $att_ID = $product->get_image_id();
 	
 	//echo apply_filters( 'woocommerce_single_product_image_thumbnail_html', wc_get_gallery_image_html( $att_ID ), $att_ID );
 	?>
@@ -85,6 +85,7 @@ if ($zoo_single_layout == 'images-center') {
 	<?php
 	//global $product;
 	$attachment_ids = $product->get_gallery_image_ids();
+	var_dump($attachment_ids);
 if ( $attachment_ids && $product->get_image_id() ) {
 	foreach ( $attachment_ids as $attachment_id ) {
 		?>

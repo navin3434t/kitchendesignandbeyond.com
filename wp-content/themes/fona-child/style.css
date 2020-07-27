@@ -319,7 +319,23 @@ div#feetperbox {
     float: left;
     width: 100%;
 }
+.wrap-left-single-product span.onsale {
+    width: 60px !important;
+    height: 60px !important;
+    background: #3568b1 !important;
+    border-radius: 50px !important;
+    line-height: 50px!important;
+    padding: 0 !important;
+    font-weight: 700;
+}
 
+span.wc-measurement-price-calculator-price {
+    font-size: 15px;
+}
+
+.price ins span.woocommerce-Price-amount.amount {
+    font-size: 25px !important;
+}
 /*-------End-----------*/
 @media(max-width:992px){
    .vc_custom_1594537915234{
