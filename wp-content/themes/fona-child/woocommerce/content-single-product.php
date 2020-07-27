@@ -71,33 +71,28 @@ if ($zoo_single_layout == 'images-center') {
 	<h2>Gallery</h2>
 	<div class="row">
 	<?php 
- 	$aaaa = $product->get_meta( 'same_product_title' );
+	$aaaa = $product->get_meta( 'same_product_title' );
 	$att_ID = $product->get_image_id();
 	
 	//echo apply_filters( 'woocommerce_single_product_image_thumbnail_html', wc_get_gallery_image_html( $att_ID ), $att_ID );
 	?>
 	<div class="col-lg-3 col-md-3 col-sm-3">
-	<div class="zoom_img" data-zoo-image="<?php echo wp_get_attachment_url( $attachment_id ); ?>">
-	<a href="<?php echo wp_get_attachment_url( $att_ID ); ?>" class="zoo-woo-lightbox">
+	<a href="<?php echo wp_get_attachment_url( $att_ID ); ?>" class="item-wrap" data-fancybox="gal">
 		  <span class="icon-search2"></span>
 		  <img class="img-fluid" src="<?php echo wp_get_attachment_url( $att_ID ); ?>">
 		</a>
 		</div>
-		</div>
 	<?php
 	//global $product;
 	$attachment_ids = $product->get_gallery_image_ids();
-	//var_dump($attachment_ids);
 if ( $attachment_ids && $product->get_image_id() ) {
 	foreach ( $attachment_ids as $attachment_id ) {
 		?>
 		<div class="col-lg-3 col-md-3 col-sm-3">
-		<div class="zoom_img" data-zoo-image="<?php echo wp_get_attachment_url( $attachment_id ); ?>">
-		<a href="<?php echo wp_get_attachment_url( $attachment_id ); ?>" class="zoo-woo-lightbox">
+		<a href="<?php echo wp_get_attachment_url( $attachment_id ); ?>" class="item-wrap" data-fancybox="gal">
 		  <span class="icon-search2"></span>
 		  <img class="img-fluid" src="<?php echo wp_get_attachment_url( $attachment_id ); ?>">
 		</a>
-		</div>
 		</div>
 		<?php
 	}
@@ -190,3 +185,6 @@ do_action('woocommerce_after_single_product');
 })(jQuery);
 });
 	</script-->
+
+	<link href="<?php echo get_stylesheet_directory_uri();?>/jquery.fancybox.min.css" rel="stylesheet" type="text/css">
+	<script src="<?php echo get_stylesheet_directory_uri();?>/jquery.fancybox.min.js"></script>
