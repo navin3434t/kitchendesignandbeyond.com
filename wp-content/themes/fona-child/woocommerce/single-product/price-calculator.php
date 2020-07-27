@@ -73,7 +73,7 @@ $has_pricing_overage = $pricing_overage > 0;
 						
 						</label>
 			</div>
-	<?php /* foreach ( $measurements as $measurement ) : ?>
+	<?php  foreach ( $measurements as $measurement ) : ?>
 
 		<?php
 
@@ -207,7 +207,10 @@ $has_pricing_overage = $pricing_overage > 0;
 				
 			</div>
 
-	<?php endforeach; */?>
+	<?php endforeach; ?>
+
+
+
 
 	<?php if ( $settings->is_calculator_type_derived() ) : ?>
 
