@@ -17,6 +17,310 @@
 .products.grid .product{
 	width: 25% !important;
 }
+
+/*-------27/July/2020-----------*/
+.measurement_filter h3 {
+    position: relative;
+    background: none;
+    color: #000;
+    font-size: 17px;
+    font-weight: 700;
+    margin: 0 0 15px;
+}
+
+.prc_calc {
+    position: relative;
+    height: auto;
+    border: 1px solid #f7f7f7;
+    box-sizing: border-box;
+    background: #f7f7f7;
+    padding: 20px;
+    box-shadow: 0 0 14px 1px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+    float: left;
+    width: 100%;
+}
+
+.price-table-row {
+    float: left;
+    width: 55px;
+}
+
+.price-table-row input {
+    float: left !important;
+    width: 100% !important;
+}
+
+.price-table-row label {
+    display: inline-block;
+    width: 55px;
+    text-transform: none;
+    font-size: 10px;
+    margin-top: 2px;
+    text-align: center;
+    color: #a1a1a1;
+}
+div#price_calculator .cross_measure {
+    float: left;
+    margin: 0 20px;
+}
+.price-table-row.total-amount {
+    margin: 0 20px;
+}
+
+.price-table-row.total-amount span {
+    float: left !important;
+    color: red;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 2px;
+}
+
+.price-table-row.total-amount p {
+    display: inline-block;
+    width: 55px;
+    text-transform: none;
+    font-size: 11px;
+    margin-top: 2px;
+    text-align: center;
+    color: #a1a1a1;
+    line-height: normal;
+}
+
+.price-table-row.calculated-price {
+    width: 100%;
+}
+
+div#price_calculator .col-lg-7 .cross_measure:nth-child(1) {
+    display: none;
+}
+span.equal {
+    float: left !important;
+    margin: 0 0px 0 20px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+span.equal {
+    float: left !important;
+    margin: 0 0px 0 20px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.price-table-row.calculated-price {font-weight: 700;}
+
+.price-table-row.calculated-price span {
+    float: none !important;
+    margin-left: 8px;
+    font-size: 20px;
+    color: red;
+}
+
+.price-table-row input {
+    text-align: center !important;
+    box-shadow: 0 0 0 transparent;
+    border-radius: 4px;
+    border: 1px solid #7e8993;
+    background-color: #fff;
+    color: #32373c;
+}
+
+.qib-container {
+    margin: auto;
+    width: 100%;
+}
+
+button.single_add_to_cart_button.button.alt {
+    width: 320px;
+    height: 50px !important;
+    padding: 0 !important;
+    line-height: 50px;
+    margin: 20px auto !important;
+    display: block !important;
+}
+
+.measurement_filter {
+    float: left;
+    width: 100%;
+}
+
+div#tab-description p {
+    font-size: 17px;
+}
+
+div#tab-description {
+    padding: 0 50px;
+}
+
+ul#productss li.product.type-product {
+    width: 100%;
+    margin-bottom: 0;
+}
+.container {
+    max-width: 1440px;
+}
+
+ul#productss h2.woocommerce-loop-product__title {
+    position: relative;
+    background: none;
+    color: #000;
+    font-size: 16px !important;
+    font-weight: 700;
+    margin: 0 !important;
+    padding: 0 !important;
+    text-align: center;
+    line-height: normal;
+}
+
+.woocommerce ul.products li.product .price {
+    font-size: 20px;
+    color: red !important;
+    text-align: center;
+}
+
+ul#productss a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart {
+    width: auto;
+    height: 50px !important;
+    padding: 0 !important;
+    line-height: 50px;
+    margin: 20px auto !important;
+    display: block !important;
+    text-align: center;
+}
+
+.icon {
+    text-align: center;
+    font-size: 135px;
+    color: #3469b1;
+    line-height: normal;
+}
+
+div#price_calculator h3 {
+    text-align: center;
+    margin-bottom: 35px;
+    font-size: 18px;
+}
+
+.price-table-row.calculated-price-overage {
+    width: 100%;
+}
+
+.price-table-row.calculated-price-overage span.product_price_overage {
+    width: 100%;
+}
+
+.price-table-row.calculated-price-overage label {width: 100%;text-align: left;display: block;position: relative;padding-left: 35px;margin-bottom: 12px;cursor: pointer;font-size: 15px;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;}
+.price-table-row.calculated-price-overage label input{
+position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #c1c1c1;
+}
+
+/* On mouse-over, add a grey background color */
+.price-table-row.calculated-price-overage label:hover input ~ .checkmark {
+  background-color: #a9a9a9;
+}
+
+/* When the checkbox is checked, add a blue background */
+.price-table-row.calculated-price-overage label input:checked ~ .checkmark {
+  background-color: #3469b1;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.price-table-row.calculated-price-overage label input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.price-table-row.calculated-price-overage label .checkmark:after {
+  left: 10px;
+  top: 6px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.price-table-row.total-amount {
+    width: 150px;
+}
+
+.price-table-row.total-amount label {
+    width: 90px;
+}
+
+span.wc-measurement-price-calculator-total-amount {
+    margin-left: 10px;
+    line-height: 30px;
+    padding: 0 !important;
+}
+
+
+button.single_add_to_cart_button.button.alt {
+    float: right !important;
+    margin: 0 !important;
+}
+
+input#_measure_needed {
+    height: 45px;
+}
+
+span.wc-measurement-price-calculator-total-amount {
+    line-height: 44px;
+}
+
+span.equal {
+    line-height: 41px;
+    margin-left: 0px;
+}
+
+
+.quantity_heading {
+    font-weight: 700;
+    font-size: 17px;
+    text-transform: uppercase;
+    margin: 0 0 18px 0;
+    float: left;
+    width: 100%;
+}
+
+div#gallery {
+    float: left;
+    width: 100%;
+}
+
+div#feetperbox {
+    font-style: italic;
+    font-size: 13px;
+	margin: 10px 0 0 0;
+    float: left;
+    width: 100%;
+}
+
+/*-------End-----------*/
 @media(max-width:992px){
    .vc_custom_1594537915234{
         margin-left:0px !important;

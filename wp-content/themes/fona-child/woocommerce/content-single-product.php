@@ -65,7 +65,7 @@ if ($zoo_single_layout == 'images-center') {
 		</div>
 		
 
-
+<?php var_dump($product);?>
 		<div id="gallery" class="product_gallery">
 	<div class="container">
 	<h2>Gallery</h2>
@@ -154,12 +154,12 @@ if ( $same_products ) : ?>
 		<?php woocommerce_product_loop_end(); ?>
 </div>
 	</section>
-	
+
 <?php endif;  wp_reset_postdata();?>
 <?php
 do_action('woocommerce_after_single_product');
 ?>
-<script>
+<!--script>
 	jQuery(document).ready(function () {
     (function ($) {
 	$('#pddd').owlCarousel({
@@ -184,4 +184,4 @@ do_action('woocommerce_after_single_product');
 })
 })(jQuery);
 });
-	</script>
+	</script-->
