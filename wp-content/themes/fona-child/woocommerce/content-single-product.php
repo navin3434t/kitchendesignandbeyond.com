@@ -30,41 +30,43 @@ if ( post_password_required() ) {
 	echo get_the_password_form(); // WPCS: XSS ok.
 	return;
 }
+$zoo_single_layout = zoo_woo_gallery_layout_single();
+$zoo_class = $zoo_single_layout . ' zoo-single-product';
+wp_enqueue_style('slick');
+wp_enqueue_style('slick-theme');
+if (zoo_woo_enable_zoom()) {
+    wp_enqueue_style('zoomove');
+    wp_enqueue_script('zoomove');
+    $zoo_class .= ' zoo-product-zoom';
+}
+$zoo_single_sidebar = zoo_woo_single_sidebar();
+$zoo_class .= ' ' . $zoo_single_sidebar;
+if ($zoo_single_layout == 'vertical-gallery-center-thumb') {
+    $zoo_single_layout = 'vertical-gallery';
+    $zoo_class .= ' vertical-gallery';
+}
+if ($zoo_single_layout == 'carousel') {
+    remove_action('woocommerce_after_single_product_summary', 'woocommerce_output_product_data_tabs', 10);
+}
+if ($zoo_single_layout == 'sticky-right-content'||$zoo_single_layout == 'sticky-accordion') {
+    remove_action('woocommerce_after_single_product_summary', 'woocommerce_output_product_data_tabs', 10);
+    $zoo_single_layout = 'sticky';
+    $zoo_class .= ' sticky';
+}
+if ($zoo_single_layout == 'images-center') {
+    remove_action('woocommerce_after_single_product_summary', 'woocommerce_output_product_data_tabs', 10);
+}
 ?>
-<div id="product-<?php the_ID(); ?>" <?php wc_product_class( '', $product ); ?>>
-<div class="container">
-<div id="ss-about">
-	<?php
-	/**
-	 * Hook: woocommerce_before_single_product_summary.
-	 *
-	 * @hooked woocommerce_show_product_sale_flash - 10
-	 * @hooked woocommerce_show_product_images - 20
-	 */
-	do_action( 'woocommerce_before_single_product_summary' );
-	?>
+    <div id="product-<?php the_ID(); ?>" <?php wc_product_class($zoo_class, $product); ?>>
+        <div class="wrap-top-single-product">
+            <div class="container">
+                <?php get_template_part('woocommerce/single-product/layout/' . $zoo_single_layout, 'layout'); ?>
+            </div>
+		</div>
+		
 
-	<div class="summary entry-summary">
-		<?php
-		/**
-		 * Hook: woocommerce_single_product_summary.
-		 *
-		 * @hooked woocommerce_template_single_title - 5
-		 * @hooked woocommerce_template_single_rating - 10
-		 * @hooked woocommerce_template_single_price - 10
-		 * @hooked woocommerce_template_single_excerpt - 20
-		 * @hooked woocommerce_template_single_add_to_cart - 30
-		 * @hooked woocommerce_template_single_meta - 40
-		 * @hooked woocommerce_template_single_sharing - 50
-		 * @hooked WC_Structured_Data::generate_product_data() - 60
-		 */
-		do_action( 'woocommerce_single_product_summary' );
-		?>
-	</div>
-	</div>
-</div>
 
-	<div id="gallery" class="product_gallery">
+		<div id="gallery" class="product_gallery">
 	<div class="container">
 	<h2>Gallery</h2>
 	<div class="row">
@@ -103,18 +105,22 @@ if ( $attachment_ids && $product->get_image_id() ) {
 </div>
 
 
-	<?php
-	/**
-	 * Hook: woocommerce_after_single_product_summary.
-	 *
-	 * @hooked woocommerce_output_product_data_tabs - 10
-	 * @hooked woocommerce_upsell_display - 15
-	 * @hooked woocommerce_output_related_products - 20
-	 */
-	do_action( 'woocommerce_after_single_product_summary' );
-	?>
+        <div class="wrap-main-single-product">
+            <?php
+            /**
+             * woocommerce_after_single_product_summary hook.
+             *
+             * @hooked woocommerce_output_product_data_tabs - 10
+             * @hooked woocommerce_upsell_display - 15
+             * @hooked woocommerce_output_related_products - 20
+             */
+            do_action('woocommerce_after_single_product_summary');
+            ?>
+        </div>
+    </div>
 
-<?php //echo 'abc'. $aaaa;
+
+	<?php //echo 'abc'. $aaaa;
 //echo $product->get_meta( 'same_product_title' );
 					$args = array(
 						//'return' => 'ids',
@@ -148,17 +154,11 @@ if ( $same_products ) : ?>
 		<?php woocommerce_product_loop_end(); ?>
 </div>
 	</section>
-
-<?php endif;
-
-wp_reset_postdata();
-				?>
-
-
-
-<?php do_action( 'woocommerce_after_single_product' ); ?>
-
-
+	
+<?php endif;  wp_reset_postdata();?>
+<?php
+do_action('woocommerce_after_single_product');
+?>
 <script>
 	jQuery(document).ready(function () {
     (function ($) {
