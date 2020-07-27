@@ -45,10 +45,10 @@ if ( $product->is_in_stock() ) : ?>
 
 		do_action( 'woocommerce_after_add_to_cart_quantity' );
 		?>
-
+		 <input type="hidden" name="add-to-cart" value="<?php echo esc_attr( $product->get_id() ); ?>">
+		 <input type="hidden" name="product_id" value="<?php echo esc_attr( $product->get_id() ); ?>">
 		<!--button type="submit" name="add-to-cart" value="<?php echo esc_attr( $product->get_id() ); ?>" class="single_add_to_cart_button button alt"><?php echo esc_html( $product->single_add_to_cart_text() ); ?></button-->
-		<input type="submit" data-quantity="1" data-product_id="<?php echo $product->id; ?>" class="single_add_to_cart_button add_to_cart_button  product_type_simple button alt" value="Add to cart" />
-
+		<input type="submit" value="<?php echo esc_html( $product->single_add_to_cart_text() ); ?>" class="single_add_to_cart_button button alt">
 		<?php do_action( 'woocommerce_after_add_to_cart_button' ); ?>
 	</form>
 
