@@ -327,6 +327,9 @@ div#feetperbox {
     line-height: 50px!important;
     padding: 0 !important;
     font-weight: 700;
+    right: 30px !important;
+    left: auto !important;
+    top: 15px !important;
 }
 
 span.wc-measurement-price-calculator-price {
@@ -335,6 +338,45 @@ span.wc-measurement-price-calculator-price {
 
 .price ins span.woocommerce-Price-amount.amount {
     font-size: 25px !important;
+}
+div#gallery a img {
+    height: 220px;
+    width: 100%;
+    object-fit: cover;
+    margin-bottom:30px;
+}
+div#gallery {
+    padding: 50px 0;
+}
+div#gallery a img {
+    height: 220px;
+    width: 100%;
+    object-fit: cover;
+    margin-bottom:30px;
+}
+div#gallery {
+    padding: 50px 0;
+}
+
+.wrap-product-img span.onsale {
+    width: 70px !important;
+    height: 70px !important;
+    background: #3568b1 !important;
+    border-radius: 50px !important;
+    padding: 0 !important;
+    font-weight: 700;
+    right: 30px !important;
+    left: auto !important;
+    top: 15px !important;
+    font-size: 10px !important;
+    line-height: 40px;
+}
+
+.wrap-product-img span.onsale p {
+    margin: 0 !important;
+    font-size: 20px;
+    color: #fff !important;
+    line-height: 0px;
 }
 /*-------End-----------*/
 @media(max-width:992px){
